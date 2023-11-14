@@ -96,7 +96,7 @@
             <li><a href="#research">Research</a></li>
             <li><a href="#projects"> Publications</a></li>
             <li><a href="#teaching">Teaching</a></li>
-            <li><a href="#awards">Honors</a></li>
+            <li><a href="#awards">Awards</a></li>
         </ul>
     </nav>
 
@@ -115,7 +115,7 @@
                                 <!-- Content cell -->
                                 <td style="padding:2.5%;width:63%;vertical-align:middle">
                                     <br>
-                                    <p id="about">I am a senior at Stanford University studying Computer Science and Mathematics. I want to do research in applied cryptography and security and deliver powerful security solutions deployable in the real world. I am currently applying to PhD programs in those areas.</p>
+                                    <p id="about">I am a senior at <a href="https://www.stanford.edu/">Stanford University</a> studying Computer Science and Mathematics. I want to do research in applied cryptography and security and deliver powerful security solutions deployable in the real world. I am currently applying to PhD programs in Computer Science.</p>
                                     <p id="research">At Stanford, I am a research assistant in the <a href="https://esrg.stanford.edu/">Empirical Security Research Group</a> where I work with professor Zakir Durumeric. Last summer, I was supervised by professor Dan Boneh on a fully homomorphic encryption project <a href="https://github.com/ihyunnam/FHE-image-classifier">(project Github)</a>. Currently, I am advised by professor John Mitchell for a project on Cheon-Kim-Kim-Song FHE.</p>
                                     <p id="projects">Outside of research, I enjoy teaching and mentoring, especially revolving around diversity and inclusion in STEM. I'm currently a board member for <a href="https://swimm.stanford.edu/">Stanford Women in Math Mentoring</a>. Previously, I was a problem writer for the <a href="https://www.stanfordmathtournament.com/">Stanford Math Tournament</a> and a community outreach intern at <a href="https://wcc.stanford.edu/"> Stanford Women's Community Center.</a></p>
                                     <br>
@@ -151,9 +151,10 @@
             </tr> 
             <tr>
                 <td style="padding:20px;width:70%;vertical-align:middle">
-                  <h3><a href="https://github.com/ihyunnam/FHE-image-classifier">2. The Avg-Act Swap: Towards Faster Fully Homomorphic Encryption Applications in Deep Neural Networks</a></h3>
-                    <p><em>Advised by professor Dan Boneh and supported by Stanford VPUE Major Grant, Summer 2023.</em> </p>
-                </td></tr><tr>
+                  <h3>2. <a href="https://github.com/ihyunnam/FHE-image-classifier">The Avg-Act Swap: Towards Faster Fully Homomorphic Encryption Applications in Deep Neural Networks</a></h3>
+                    <p><em>Advised by professor Dan Boneh and supported by Stanford VPUE Major Grant, Summer 2023.</em> Neural networks over unencrypted data conventionally have activation function <em>before</em> average pooling to boost accuracy. However, for machine learning with FHE over encrypted data, I suggested that it is desirable to trade off accuracy for faster speed. To that end, I proposed <u>the Avg-Act Swap, which integrates any activation function at the end of AvgPool.</u> I designed two FHE-friendly convolutional neural networks, which achieved up to 37% faster encrypted inference speed with 99% accuracy in classifying encrypted MNIST images. This shows that faster deep learning applications of FHE are achievable with manageable performance tradeoffs.</p>
+                </td></tr>
+            <tr>
             <td style="padding:20px;width:70%;vertical-align:middle">
                     <h3>3. TLS Client Identification With Unsupervised Learning on Server Name Indication</h3>
                     <p><em>Supervised by professor Zakir Durumeric and part of the Empirical Security Research Group, starting Spring 2023.</em> I am investigating why some TLS client nonces repeat when they are not supposed to. I developed an algorithm that maps at least 60% of TLS clients in any given dataset to domain names that are most strongly associated with the client's identity. Unlike all previous rule-based client identification tools, our tool relies solely on unsupervised learning and optimization.</p>
@@ -164,6 +165,11 @@
                     
                 </td>
             </tr> 
+            <tr>
+                <td style="padding:20px;width:70%;vertical-align:middle">
+                  <h3>4. <a href="https://arxiv.org/abs/2109.12455">Shuffle Squares and Reverse Shuffle Squares</a></h3>
+                    <p><em>Advised by professor Pawel Grzegrzolka and supported by Stanford Undergraduate Research Institute in Mathematics, Summer 2021</em> In a team of four, we proved the Henshall-Rampersad-Shallit conjecture on enumerating shuffle squares that was suggested in 2012 only with numerical evidence. We disprovedc the author's companion asymptotic formula for reverse shuffle squares using a greedy algorithm and Catalan bijections, and proved a new alternative. I am particularly interested in how the new lower bound on the number of bits to omit from a binary word to make it a shuffle square can lead to <u>more efficient error correcting codes in deletion channels</u>.</p>
+                </td></tr>
         </tbody>
     </table>
 
@@ -175,6 +181,25 @@
                     <h2 id="projects">Publications</h2>
                 </td>
             </tr>
+            
+            <tr>
+                <td style="padding:20px;width:70%;vertical-align:middle">
+                    <h3><a href="shuffle squares.pdf">Shuffle Squares and Reverse Shuffle Squares</a></h3>
+                    <p>Xiaoyu He, Emily Huang, Rishubh Thaper, <strong>Ihyun Nam</strong><br>
+                    <em>To appear in the European Journal of Combinatorics. This research was funded by <a href="https://surim.stanford.edu/">Stanford Undergraduate Research Institute in Mathematics.</a></em> (Summer 2021)</p>
+                </td>
+            </tr> 
+
+        </tbody>
+    </table>
+
+<table style="width:80%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <tbody>
+            <tr>
+                <td style="padding:0px;width:80%;vertical-align:middle">
+                    <h2>Some other pieces I wrote</h2>
+                </td>
+            </tr>
             <tr>
                 <td style="padding:20px;width:70%;vertical-align:middle">
                     <h3><a href="https://arxiv.org/abs/2306.11383">A Survey of Multivariate Polynomial Commitment Schemes</a></h3>
@@ -182,17 +207,11 @@
                     <em>This survey was written as part of my undergraduate independent research project in Cryptography.</em> (June 2023)</p>
                 </td>
             </tr> 
-            <tr>
-                <td style="padding:20px;width:70%;vertical-align:middle">
-                    <h3><a href="shuffle squares.pdf">Shuffle Squares and Reverse Shuffle Squares</a></h3>
-                    <p>Xiaoyu He, Emily Huang, Rishubh Thaper, <strong>Ihyun Nam</strong><br>
-                    <em>Submitted to: The European Journal of Combinatorics. This research was associated with the <a href="https://surim.stanford.edu/">Stanford Undergraduate Research Institute in Mathematics.</a></em> (Summer 2021)</p>
-                </td>
-            </tr> 
+            
             <tr>
                 <td style="padding:20px;width:70%;vertical-align:middle">
                     <h3><a href="Ihyun Nam EE (Mathematics, RSA).pdf">Comparison of Efficiencies of Euler and Carmichael's Totient Functions in RSA Key Generation</a></h3>
-                    <p>This was my Extended Essay component of the IB program for high school. (Fall 2019)</p>
+                    <p>I was obssessed with secret codes and encryption schemes in high school. This is a mini thesis I wrote for my high school diploma on the efficiency of different totient functions used in RSA cryptosystem. (Fall 2019)</p>
                 </td>
             </tr> 
         </tbody>
@@ -204,54 +223,57 @@
             <tr>
                 <td style="padding:0px;width:80%;vertical-align:middle">
                     <h2 id="teaching">Teaching</h2>
-                    <p>I want to be a professional teacher one day! I'm always willing to take more teaching positions.</p>
+                    <p>I love teaching and sharing what I have learned with others and hope to become a professor one day. </p>
                 </td>
             </tr>
             <tr>
                 <td style="padding:20px;width:70%;vertical-align:middle">
+                    <strong>Hack Lab: Introduction to Cybersecurity</strong><br>
+                    <em>Technical Teaching Assistant, Fall 2023</em><br>
+                </td>
+            </tr> 
+            <tr>
+                <td style="padding:20px;width:70%;vertical-align:middle">
                     <strong>Stanford University Mathematics Camp</strong><br>
-                    <em>Assistant / Residential Counselor (Summer 2023)</em><br>
-                    <p>I assisted high school juniors and seniors during their 4-week learning of Abstract Algebra and Number Theory, and led cryptography research sessions.</p>
+                    <em>Teaching Assistant and Residential Counselor, Summer 2023</em><br>
+                  
                 </td>
             </tr> 
             <tr>
                 <td style="padding:20px;width:70%;vertical-align:middle">
-                    <strong>Stanford Women in Math Mentoring (Stanford, CA)</strong><br>
-                    <em>Board member (Fall 2023 - Spring 2024)</em><br>
-                    <p>After being a mentee in SWIMM for 3 consecutive years, I was selected as one of the three undergraduate board members to join the SWIMM leadership my senior year.</p>
-                </td>
-            </tr> 
-            <tr>
-                <td style="padding:20px;width:70%;vertical-align:middle">
-                    <strong>Bloomsbury Education (Seoul, South Korea)</strong><br>
-                    <em>Math tutor (Summer 2020)</em><br>
-                    <p>I spent the best summer after graduating from high school, alternating between teaching IB Higher Level Math to high school seniors and teaching a third grader how to multiply fractions.</p>
+                    <strong>Bloomsbury Education</strong><br>
+                    <em>Math tutor, Summer 2020</em><br>
+
                 </td>
             </tr> 
         </tbody>
     </table>
 
     
-    <!-- Honors & Awards section -->
+    <!-- Awards & Awards section -->
     <table style="width:80%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
         <tbody>
             <tr>
                 <td style="padding:0px;width:80%;vertical-align:middle">
-                    <h2 id="awards">Honors</h2>
+                    <h2 id="awards">Awards</h2>
                 </td>
             </tr>
             <tr>
                 <td style="padding:20px;width:70%;vertical-align:middle">
-                    <strong>Stanford Undergraduate Research Fellowship (SURIM)</strong><br>
-                    <em>Recipient (Summer 2021)</em><br>
-                    <p>I was awarded the SURIM fellowship to conduct research in combinatorics and graph theory.</p>
+                    <strong>Presidential Science Scholarship</strong><br>
+                    <em>Full college scholarship awarded by the President of Korea, since Fall 2020.</em><br>
                 </td>
             </tr> 
             <tr>
                 <td style="padding:20px;width:70%;vertical-align:middle">
-                    <strong>Stanford Math Tournament (SMT)</strong><br>
-                    <em>Problem Writer (Spring 2020 - Present)</em><br>
-                    <p>I write problems for the Stanford Math Tournament, an annual math competition for high school students.</p>
+                    <strong>Conference Scholarship for the Richard Tapia Conference in Diversity in Computing</strong><br>
+                    <em>One of 18 students to represent Stanford's CS department at the conference.</em><br>
+                </td>
+            </tr> 
+            <tr>
+                <td style="padding:20px;width:70%;vertical-align:middle">
+                    <strong>Talent Award of Korea</strong><br>
+                    <em>One of 50 Korean citizens under 34 recognized for passion in cryptography and contribution to social development.</em><br>
                 </td>
             </tr> 
         </tbody>
