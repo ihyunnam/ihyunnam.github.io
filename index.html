@@ -35,13 +35,9 @@
         /* Apply jump animation to each letter individually */
         .title span {
             display: inline-block;
-            animation: jump 1s ease-out infinite;
+            animation: dropIn 1s ease-out infinite;
         }
 
-        /* Add a bit of spacing between letters for clarity */
-        .title span:not(:last-child) {
-            margin-right: 5px;
-        }
         
         @keyframes dropIn {
             0% {
