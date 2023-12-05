@@ -1,7 +1,9 @@
 
         /* Set font to Open Sans */
        body, p, ul, ol, table, pre, dl, a, small, strong, table, th, td{
-            font-family: 'Calibri', sans-serif;
+               /*font-family: 'Calibri', sans-serif;*/
+               font-family: 'IBM Plex Serif';
+               line-height: 0.9;
         }
 
         h1 {
@@ -99,6 +101,7 @@ body {
   background-color: #fff;
   padding:50px;
   /*font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
+ font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",  Helvetica, Arial, sans-serif;
   color:#595959;
   font-weight:400;
 }
