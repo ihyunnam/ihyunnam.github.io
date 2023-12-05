@@ -1,1 +1,37 @@
 
+<!-- Research section -->
+    <table style="width:80%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <tbody>
+            <tr>
+                <td style="padding:0px;width:80%;vertical-align:middle">
+                    <h2 id="research">Research</h2>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding:20px;width:70%;vertical-align:middle">
+
+                    <h3>1. Plaintext Overflow Detection in Cheon-Kim-Kim-Song (CKKS) FHE scheme</h3>
+                    <p><em>Advised by professor John Mitchell, starting Spring 2023. </em> 
+                        Plaintexts in many FHE schemes, including CKKS, are defined modulo a chosen plaintext modulus. When the plaintext grows larger than the modulo, it wraps around and loses all encoded information. Because there is currently no way to decide whether the decrypted result of homomorphic operations has overflowed or not, FHE implementations have to err on the side of caution and choose an extremely large modulus - which leads to more computational overhead. I developed the <u>first formalized plaintext overflow detection scheme in CKKS</u>, which has IND-CPA security and can be extended to BFV/GV. (Spring 2023~)</p>
+                </td>
+            </tr> 
+            <tr>
+                <td style="padding:20px;width:70%;vertical-align:middle">
+                  <h3>2. <a href="https://github.com/ihyunnam/FHE-image-classifier">The Avg-Act Swap: Towards Faster Fully Homomorphic Encryption Applications in Deep Neural Networks</a></h3>
+                    <p><em>Advised by professor Dan Boneh and supported by Stanford VPUE Major Grant, Summer 2023.</em> Neural networks over unencrypted data conventionally have activation function <em>before</em> average pooling to boost accuracy. However, for machine learning with FHE over encrypted data, I suggested that it is desirable to trade off accuracy for faster speed. To that end, I proposed <u>the Avg-Act Swap, which integrates any activation function at the end of AvgPool.</u> I designed two FHE-friendly convolutional neural networks, which achieved up to 37% faster encrypted inference speed with 99% accuracy in classifying encrypted MNIST images. This shows that faster deep learning applications of FHE are achievable with manageable performance tradeoffs.</p>
+                </td></tr>
+            <tr>
+            <td style="padding:20px;width:70%;vertical-align:middle">
+                    <h3>3. TLS Client Identification With Unsupervised Learning on Server Name Indication</h3>
+                    <p><em>Supervised by professor Zakir Durumeric and part of the Empirical Security Research Group, starting Spring 2023.</em> I am investigating why some TLS client nonces repeat when they are not supposed to. I developed an algorithm that maps at least 60% of TLS clients in any given dataset to domain names that are most strongly associated with the client's identity. Unlike all previous rule-based client identification tools, our tool relies solely on unsupervised learning and optimization.</p>
+                </td>
+            </tr> 
+            <tr>
+            </tr> 
+            <tr>
+                <td style="padding:20px;width:70%;vertical-align:middle">
+                  <h3>4. <a href="https://arxiv.org/abs/2109.12455">Shuffle Squares and Reverse Shuffle Squares</a></h3>
+                    <p><em>Advised by professor Pawel Grzegrzolka and supported by Stanford Undergraduate Research Institute in Mathematics, Summer 2021</em> In a team of four, we proved the Henshall-Rampersad-Shallit conjecture on enumerating shuffle squares that was suggested in 2012 only with numerical evidence. We disprovedc the author's companion asymptotic formula for reverse shuffle squares using a greedy algorithm and Catalan bijections, and proved a new alternative. I am particularly interested in how the new lower bound on the number of bits to omit from a binary word to make it a shuffle square can lead to <u>more efficient error correcting codes in deletion channels</u>.</p>
+                </td></tr>
+        </tbody>
+    </table>
