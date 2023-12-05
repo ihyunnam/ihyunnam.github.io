@@ -1,6 +1,6 @@
 
         /* Set font to Open Sans */
-       body, p, ul, ol, table, pre, dl, a, small, strong {
+       body, p, ul, ol, table, pre, dl, a, small, strong, table, th, td{
             font-family: 'Arial', sans-serif;
         }
 
