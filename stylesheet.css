@@ -8,6 +8,14 @@
             font-family: 'Courier New', monospace;
         }
 
+
+        /* Reduce the size of the profile photo */
+        .profile-photo {
+            width: 80%; /* Reduce the width of the photo */
+            max-width: 300px; /* Set a maximum width for the photo */
+        }
+
+
         nav ul {
             padding: 0;
             list-style-type: none;
