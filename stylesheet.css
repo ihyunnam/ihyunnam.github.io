@@ -74,7 +74,11 @@
         body {
             margin: 10px; /* Set a smaller margin for the entire page */
         }
-    
+
+        .links {
+            text-align: center; /* Center-align the content */
+            margin-top: 20px; /* Add some top margin */
+        }
         /* Change the background color of the menu bar */
         nav {
             background-color: #57A0D3; /* Background color changed to #57A0D3 (light blue) */
