@@ -9,8 +9,12 @@
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>">
     <style>
         /* Set font to Open Sans */
-        body, p, h1, h2, h3, h4, h5, h6 {
+        body, p, h2, h3, h4, h5, h6 {
             font-family: 'Candara', sans-serif; /* Set font to Open Sans */
+        }
+
+        h1 {
+            font-family: 'Courier New', monospace;
         }
 
         nav ul {
@@ -20,25 +24,7 @@
 
         .title {
             display: inline-block; /* Ensure each letter is treated as a block */
-            font-family: 'Courier New', monospace;
         }
-
-        /* Add jump animation */
-        @keyframes jump {
-            0%, 20%, 50%, 80%, 100% {
-                transform: translateY(0);
-            }
-            40%, 60% {
-                transform: translateY(-20px);
-            }
-        }
-
-        /* Apply jump animation to each letter individually */
-        .title span {
-            display: inline-block;
-            animation: dropIn 1s ease-out infinite;
-        }
-
         
         @keyframes dropIn {
             0% {
@@ -91,12 +77,6 @@
             margin-top: 10px; /* Add margin to create space between heading and menu bar */
         }
 
-        /* Increase the size of the profile photo */
-        .profile-photo {
-            width: 90%; /* Increase the width of the photo */
-            max-width: 350px; /* Set a maximum width for the photo */
-        }
-
         /* Reduce margins for the entire page */
         body {
             margin: 10px; /* Set a smaller margin for the entire page */
@@ -126,7 +106,7 @@
     <!-- Menu bar at the very top of the page -->
     <nav>
         <ul>
-            <li><a href="#about">About</a></li>
+            <li><a href="index.html">About</a></li>
             <li><a href="research.html">Research</a></li>
             <li><a href="publications.html"> Publications</a></li>
             <li><a href="pres.html"> Presentations</a></li>
@@ -146,7 +126,7 @@
                                 <!-- Profile photo cell -->
                                 <td style="padding: 2.5%; width: 40%; max-width: 40%">
     <a href="images/profile.png">
-        <img class="profile-photo" alt="profile photo" src="images/profile.png" style="border-radius: 70%; width: 100%;">
+        <img class="profile-photo" alt="profile photo" src="images/profile.png" style="border-radius: 90%; width: 100%;">
     </a>
 </td>
                                 <!-- Content cell -->
