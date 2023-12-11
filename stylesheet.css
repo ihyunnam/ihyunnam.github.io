@@ -1,15 +1,10 @@
 
         /* Set font to Open Sans */
-       body, p, ul, ol, table, pre, dl, a, small, strong, table, th, td{
+       body, h1, p, ul, ol, table, pre, dl, a, small, strong, table, th, td{
                /*font-family: 'Calibri', sans-serif;*/
                font-family: 'Tahoma', sans-serif;
                line-height: 1.2;
         }
-
-        h1 {
-            font-family: 'Courier New', monospace;
-        }
-
 
         /* Reduce the size of the profile photo */
         .profile-photo {
