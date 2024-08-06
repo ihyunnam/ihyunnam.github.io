@@ -20,6 +20,4 @@ I completed my B.S. with [Honors](/files/honors.pdf) in Computer Science (System
 
 Contact
 ======
-
-
-I want secure systems to be as easy to build as insecure ones. Lately, I’ve focused on improving programmable cryptosystems (such as zero knowledge proofs and multiparty computation) using tools from cryptography, compilers, and automated reasoning. More broadly, I’m fascinated by computation: a grand compromise between machine instruction and human expression.
+Reach me at ihyun [at] stanford [dot] edu.
