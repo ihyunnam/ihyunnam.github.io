@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Ihyun Nam"
 title_separator          : "-"
 name                     : &name "Ihyun Nam"
-description              : &description "Master's student in Computer Science at Stanford University"
+description              : &description "M.S. in Computer Science, B.S. in Computer Science + Mathematics"
 url                      : https://ihyunnam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Ihyun Nam"
   pronouns         : "she/her"  
-  bio              : "Master's student in Computer Science at Stanford University"
-  location         : "Stanford, CA"
+  bio              : "M.S. in Computer Science, B.S. in Computer Science + Mathematics"
+  location         : ""
   employer         : "Stanford University"
   uri              : # URL
   email            : "ihyun@stanford.edu" 
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0001-7886-2570"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
 
   # Repositories and software development
