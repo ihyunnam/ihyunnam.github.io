@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ihyun Nam"
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Ihyun Nam"
 description              : &description "M.S. in Computer Science, B.S. in Computer Science + Math"
