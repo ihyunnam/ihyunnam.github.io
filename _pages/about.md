@@ -20,7 +20,7 @@ Research
 **Authentication Logging to a Public Blockchain**
 <br>_Advisor: Professor David Mazieres_
 <br>_Winter 2023–Present_
-<br><p style="font-size: 80%;">We are developing 
+<br><span style="font-size: 11px;">We are developing </span>
 
 **Lasso Over Lattices**
 <br>_Advisor: Professor Dan Boneh_
