@@ -7,37 +7,49 @@ redirect_from:
   - /about.html
 ---
 
-I want advanced cryptographic primitives to be deployable in the real world. I am most excited by projects that:
-1. serve end-user interests,
-2. develop new cryptographic tools, and
-3. deliver large, secure systems.
+I am a Master's student in Computer Science at Stanford University. I am broadly interested in security, systems, and cryptography and am most excited about building secure systems with cryptography that has real-life applications. I am very fortunate to be advised by professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazieres](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/), and to have worked previously with professor [Zakir Durumeric](https://zakird.com/).
 
-I am a Master's student in Computer Science (Computer and Network Security concentration) at Stanford University. I am fortunate to be mentored by [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazieres](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/), and previously by [Zakir Durumeric](https://zakird.com/).
+I received my B.S. with [Honors](/files/honors.pdf) in Computer Science on the Systems track and B.S. in Mathematics from Stanford University in June 2024. 
 
-I completed my B.S. with [Honors](/files/honors.pdf) in Computer Science (Systems concentration) and B.S. in Mathematics at Stanford University.
+**I am currently applying for Ph.D. programs in Computer Science for the fall 2025 entry term.**
 
 Research
 ======
+**Authentication Logging to a Public Blockchain**
+_Advisor: Professor David Mazieres_
 
+**Lasso Over Lattices**
+_Advisor: Professor Dan Boneh_
+
+**The Avg-Act Swap and 
 
 Publications
 ======
 
+
 Presentations
 ======
 
-Fellowships and Awards
+
+
+Scholarships and Awards
 ======
+Talent Award of Korea
 
 Teaching
 ======
+Math 19 (Calculus) - Teaching Assistant (Fall 2024)
+INTLPOL 268 (Hack Lab) - Lab Teaching Assistant (Fall 2023)
+Stanford University Mathematics Camp - Teaching Assistant and Residential Counselor (Summer 2023)
 
 Service
 ======
+[Stanford Women in Math Mentoring](https://swimm.stanford.edu/) - Board Member (2023-24)
 
 Contact
 ======
 Reach me at ihyun [at] stanford [dot] edu.
+
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
