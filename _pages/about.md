@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ihyun Nam"
+title: "Hi, I'm Ihyun!"
 author_profile: true
 redirect_from: 
   - /about/
