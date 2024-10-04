@@ -22,8 +22,8 @@ repository               : "ihyunnam/ihyunnam.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ihyun Nam"
-  pronouns         : "she/her"
+  name             : 
+  pronouns         : 
   bio              : "M.S. in Computer Science, B.S. in Computer Science + Math"
   location         : "Stanford, CA"
   employer         : "Stanford University"
