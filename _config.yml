@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ihyun Nam"
-title_separator          : "-"
-name                     : &name "Welcome!"
+title                    : ""
+title_separator          : 
+name                     : &name "Hi, I'm Ihyun!"
 description              : &description "M.S. in Computer Science, B.S. in Computer Science + Math"
 url                      : https://ihyunnam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
