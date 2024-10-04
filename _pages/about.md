@@ -37,6 +37,11 @@ Research
 <br>_Winter 2023–Summer 2023_
 <br>Many existing rule-based TLS client identification tools rely on outdated databases and are unable to identify a wide range of clients in real-world networks. I proposed to build Clid, a new client identification tool that uses unsupervised learning on domain names from the server name indication field. Clid uses Bayesian optimization and DBSCAN clustering to map clients to domain names that are most informative of their identity, as a first step to helping researchers and operators understand network clients. I showed with experiments that Clid is able to identify 'strongly associated' domain names for at least 60% of all clients in randomly sampled TLS connections.</span>
 
+**Shuffle Squares and Reverse Shuffle Squares**
+<span style="font-size: 15px;">_<br>_Advisor: Dr. Pawel Grzegrzolka_
+<br>Summer 2021–Fall 2021_
+<br>In a team of four, we proved a conjecture from 2012 on enumerating shuffle squares (words containing disjoint identical strings) and disproved a companion conjecture on reverse shuffle squares. These findings contributed to efficient error-correcting codes for deletion channels.</span>
+
 Publications
 ------
 **The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3626232.3653277) [[code]](https://github.com/ihyunnam/Avg-Act-Swap)
