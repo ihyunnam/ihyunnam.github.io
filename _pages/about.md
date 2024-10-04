@@ -49,9 +49,9 @@ Talent Award of Korea
 
 Teaching
 ------
-Math 19 (Calculus) - Teaching Assistant (Fall 2024)
-INTLPOL 268 (Hack Lab) - Lab Teaching Assistant (Fall 2023)
-Stanford University Mathematics Camp - Teaching Assistant and Residential Counselor (Summer 2023)
+[Math 19: Calculus](https://explorecourses.stanford.edu/search?q=MATH19) - Teaching Assistant (Fall 2024)
+<br>[INTLPOL 268: Hack Lab](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=INTLPOL%20268%3A%20Hack%20Lab%3A%20Introduction%20to%20Cybersecurity&collapse=) - Lab Teaching Assistant (Fall 2023)
+<br>[Stanford University Mathematics Camp](https://sumac.spcs.stanford.edu/) - Teaching Assistant and Residential Counselor (Summer 2023)
 
 Service
 ------
