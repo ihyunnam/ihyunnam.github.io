@@ -41,7 +41,14 @@ Publications
 
 Presentations
 ------
+"The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits"
+<p style="text-indent: 3px;">The 14th ACM Conference on Data and Application Security and Privacy (Porto, Portugal): June 2024
 
+"The Avg-Act Swap: Towards Faster Machine Learning Applications of Fully Homomorphic Encryption"
+<p style="text-indent: 3px;"> Symposia for Undergraduate Research and Public Service (Stanford, CA): October 2023
+
+"Shuffle Squares and Reverse Shuffle Squares"
+<p style="text-indent: 3px;"> Symposia for Undergraduate Research and Public Service (Stanford, CA): October 2022
 
 Scholarships and Awards
 ------
