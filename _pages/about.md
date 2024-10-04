@@ -13,7 +13,7 @@ I am very fortunate to be advised by professors [Dan Boneh](https://crypto.stanf
 
 <span style="color: red;">I am currently applying for Ph.D. programs in Computer Science for the fall 2025 entry term.</span>
 
-Here is my [CV](/files/cv.pdf).
+Here is my [CV](/files/CV.pdf).
 
 Research
 ------
