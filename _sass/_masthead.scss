@@ -3,6 +3,10 @@
    ========================================================================== */
 
 .masthead {
+  display: none;
+}
+
+.masthead {
   position: fixed;
   background: white;
   border-bottom: 1px solid $border-color;
