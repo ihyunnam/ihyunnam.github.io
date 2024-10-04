@@ -93,4 +93,4 @@ Service
 
 Contact
 ------
-If any of my project intrigues you or you are interested in applied cryptography like I am, let's chat! You can reach me at ihyun [at] stanford [dot] edu.
+If any of my projects intrigues you or you are interested in applied cryptography like I am, let's chat! You can reach me at ihyun [at] stanford [dot] edu.
