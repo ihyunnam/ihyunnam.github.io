@@ -7,15 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in Computer Science at Stanford University. I am broadly interested in security, systems, and cryptography and am most excited about **building secure systems with cryptography** that has real-life applications. I am very fortunate to be advised by professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazieres](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/), and to have worked previously with professor [Zakir Durumeric](https://zakird.com/).
+I am a Master's student in Computer Science at Stanford University. I am intersted in building secure systems with cryptography that has real-life applications.
 
-I received my B.S. with [Honors](/files/honors.pdf) in Computer Science on the Systems track and B.S. in Mathematics from Stanford University in June 2024. 
+I am very fortunate to be advised by professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazieres](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/), and to have worked previously with professor [Zakir Durumeric](https://zakird.com/). I received my B.S. with [Honors](/files/honors.pdf) in Computer Science on the Systems track and B.S. in Mathematics from Stanford University in June 2024.
 
 <span style="color: red;">I am currently applying for Ph.D. programs in Computer Science for the fall 2025 entry term.</span>
 
 Research
 ------
-<span style="font-size: 24px;">Authentication Logging to a Public Blockchain</span>
+<span style="font-size: 18px;">Authentication Logging to a Public Blockchain</span>
+
 _Advisor: Professor David Mazieres_
 
 **Lasso Over Lattices**
