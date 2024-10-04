@@ -20,23 +20,26 @@ Research
 **Authentication Logging to a Public Blockchain**
 <br>_Advisor: Professor David Mazieres_
 <br>_Winter 2023–Present_
+<br><p style="font-size: 80%;">We are developing 
 
 **Lasso Over Lattices**
 <br>_Advisor: Professor Dan Boneh_
 <br>_Winter 2023–Present_
+<br><p style="font-size: 80%;"></p>
 
 **Faster Fully Homomorphic Operations Applications For Machine Learning on Encrypted Data**
 <br>_Advisor: Professor John Mitchell_
 <br>_Summer 2023–Spring 2024_
+<br><p style="font-size: 80%;"></p>
 
 **Identifying TLS Clients Using Unsupervised Learning on Domain Names**
 <br>_Advisor: Professor Zakir Durumeric_
 <br>_Winter 2023–Summer 2023_
-
+<br><p style="font-size: 80%;"></p>
 
 Publications
 ------
-**The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits**[[paper]](https://dl.acm.org/doi/pdf/10.1145/3626232.3653277)[[code]](https://github.com/ihyunnam/Avg-Act-Swap)
+**The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3626232.3653277) [[code]](https://github.com/ihyunnam/Avg-Act-Swap)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ihyun Nam
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CODASPY 2024
 
@@ -44,11 +47,11 @@ Publications
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xiaoyu He*, Emily Huang*, Ihyun Nam*, Rishubh Thaper*
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The European Journal of Combinatorics (Vol 116)
 
-**Clid: Identifying TLS Clients With Unsupervised Learning on Domain Names**[[paper]]([https://arxiv.org/pdf/2306.11383](https://arxiv.org/pdf/2410.02040))[[code]](https://github.com/ihyunnam/clid)
+**Clid: Identifying TLS Clients With Unsupervised Learning on Domain Names** [[paper]](https://arxiv.org/pdf/2410.02040) [[code]](https://github.com/ihyunnam/clid)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ihyun Nam, Gerry Wan
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Posted on arXiv (2024)
 
-**A Survey of Multivariate Polynomial Commitment Schemes**[[paper]](https://arxiv.org/pdf/2306.11383)
+**A Survey of Multivariate Polynomial Commitment Schemes** [[paper]](https://arxiv.org/pdf/2306.11383)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ihyun Nam
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Posted on arXiv (2023)
 
@@ -63,10 +66,11 @@ Presentations
 <b>"Shuffle Squares and Reverse Shuffle Squares"</b>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Symposia for Undergraduate Research and Public Service (Stanford, CA): October 2022
 
-Scholarships and Awards
+Grants and Awards
 ------
 [The Hoefer Prize for Writing in the Major](https://pwr.stanford.edu/hoefer-prize-essays-archive) (Spring 2024)
 <br>Conference Scholarship for the Richard Tapia Conference in Diversity in Computing (Summer 2023)
+<br>[Major Grant](https://undergradresearch.stanford.edu/fund-your-project/explore-student-grants/major) (Summer 2023)
 <br>Talent Award of Korea (Winter 2022)
 <br>Presidential Science Scholarship of Korea (2020-24)
 
