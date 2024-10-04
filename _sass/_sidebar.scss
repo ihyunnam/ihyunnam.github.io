@@ -79,9 +79,9 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  width: 40px;
   // set width only, for non-square avatars
-  // height: 36px;
+  // height: 38px;
 
   @include breakpoint($large) {
     display: block;
@@ -125,7 +125,7 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: $type-size-3;
 }
 
 .sidebar .author__desktop {
