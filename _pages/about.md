@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Master's student in Computer Science at Stanford University. I am intersted in building secure systems with cryptography that has real-life applications.
 
-I am very fortunate to be advised by professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazieres](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/), and to have worked previously with professor [Zakir Durumeric](https://zakird.com/). I received my B.S. with [Honors](/files/honors.pdf) in Computer Science on the Systems track and B.S. in Mathematics from Stanford University in June 2024.
+I am very fortunate to be advised by professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazieres](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/). I received my B.S. with [Honors](/files/honors.pdf) in Computer Science on the Systems track and B.S. in Mathematics from Stanford University in June 2024.
 
 <span style="color: red;">I am currently applying for Ph.D. programs in Computer Science for the fall 2025 entry term.</span>
 
@@ -18,20 +18,20 @@ Here is my [CV](/files/cv.pdf).
 Research
 ------
 **Authentication Logging to a Public Blockchain**
-_Advisor: Professor David Mazieres_
-_Winter 2023–Present_
+<br>_Advisor: Professor David Mazieres_
+<br>_Winter 2023–Present_
 
 **Lasso Over Lattices**
-_Advisor: Professor Dan Boneh_
-_Winter 2023–Present_
+<br>_Advisor: Professor Dan Boneh_
+<br>_Winter 2023–Present_
 
 **Faster Fully Homomorphic Operations Applications For Machine Learning on Encrypted Data**
-_Advisor: Professor John Mitchell_
-_Summer 2023–Spring 2024_
+<br>_Advisor: Professor John Mitchell_
+<br>_Summer 2023–Spring 2024_
 
 **Identifying TLS Clients Using Unsupervised Learning on Domain Names**
-_Advisor: Professor Zakir Durumeric_
-_Winter 2023–Summer 2023_
+<br>_Advisor: Professor Zakir Durumeric_
+<br>_Winter 2023–Summer 2023_
 
 
 Publications
