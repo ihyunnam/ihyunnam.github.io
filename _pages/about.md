@@ -18,24 +18,24 @@ Here is my [CV](/files/cv.pdf).
 Research
 ------
 **Authentication Logging to a Public Blockchain**
-<br>_Advisor: Professor David Mazieres_
+<span style="font-size: 15px;">_<br>_Advisor: Professor David Mazieres_
 <br>_Winter 2023–Present_
-<br><span style="font-size: 11px;">We are developing </span>
+<br>_(In progress)_ We are developing a new authentication logging protocol with the improved security guarantees from the Larch universal login system that (1) it does not require a trusted third party to run a log server and (2) users have security even when their log server and a relying party are colluding.</span>
 
 **Lasso Over Lattices**
-<br>_Advisor: Professor Dan Boneh_
+<span style="font-size: 15px;">_<br>_Advisor: Professor Dan Boneh_
 <br>_Winter 2023–Present_
-<br><p style="font-size: 80%;"></p>
+<br>_(In progress)_ We are building Lasso lookup arguments on lattices, in contrast to the original scheme that works on field elements.</span>
 
 **Faster Fully Homomorphic Operations Applications For Machine Learning on Encrypted Data**
-<br>_Advisor: Professor John Mitchell_
+<span style="font-size: 15px;">_<br>_Advisor: Professor John Mitchell_
 <br>_Summer 2023–Spring 2024_
-<br><p style="font-size: 80%;"></p>
+<br>I developed the Avg-Act Swap, a simple technique to place an AvgPool before an activation function for faster encrypted inference speed for machine learning on fully homomorphically encrypted (FHE) data. I designed and implemented two FHE-friendly DNNs that achieved at most 30% increase in encrypted inference speed when used with the Avg-Act Swap; and modified Lenet-5 with the Avg-Act Swap to achieve a 27% increase in encrypted inference speed and a 90% accuracy. Furthermore, I proposed the first formalized plaintext overflow detection method in floating-point arithemetic FHE schemes and proved IND-CPA.</span>
 
 **Identifying TLS Clients Using Unsupervised Learning on Domain Names**
-<br>_Advisor: Professor Zakir Durumeric_
+<span style="font-size: 15px;">_<br>_Advisor: Professor Zakir Durumeric_
 <br>_Winter 2023–Summer 2023_
-<br><p style="font-size: 80%;"></p>
+<br></span>
 
 Publications
 ------
@@ -69,9 +69,9 @@ Presentations
 Grants and Awards
 ------
 [The Hoefer Prize for Writing in the Major](https://pwr.stanford.edu/hoefer-prize-essays-archive) (Spring 2024)
-<br>Conference Scholarship for the Richard Tapia Conference in Diversity in Computing (Summer 2023)
+<br>[Conference Scholarship for the Richard Tapia Conference](https://tapiaconference.cmd-it.org/) (Summer 2023)
 <br>[Major Grant](https://undergradresearch.stanford.edu/fund-your-project/explore-student-grants/major) (Summer 2023)
-<br>Talent Award of Korea (Winter 2022)
+<br>[Talent Award of Korea](https://en.wikipedia.org/wiki/Talent_Award_of_Korea) (Winter 2022)
 <br>Presidential Science Scholarship of Korea (2020-24)
 
 Teaching
