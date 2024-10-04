@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Hi, I'm Ihyun!"
 title_separator          : 
 name                     : &name "Ihyun Nam"
 description              : &description "M.S. in Computer Science, B.S. in Computer Science + Math"
@@ -22,8 +22,8 @@ repository               : "ihyunnam/ihyunnam.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Welcome!"
-  pronouns         : # example: "she/her"  
+  name             : "Ihyun Nam"
+  pronouns         : "she/her"
   bio              : "M.S. in Computer Science, B.S. in Computer Science + Math"
   location         : "Stanford, CA"
   employer         : "Stanford University"
