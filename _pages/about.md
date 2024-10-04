@@ -35,7 +35,7 @@ Research
 **Identifying TLS Clients Using Unsupervised Learning on Domain Names**
 <span style="font-size: 15px;">_<br>_Advisor: Professor Zakir Durumeric_
 <br>_Winter 2023–Summer 2023_
-<br></span>
+<br>Many existing rule-based TLS client identification tools rely on outdated databases and are unable to identify a wide range of clients in real-world networks. I proposed to build Clid, a new client identification tool that uses unsupervised learning on domain names from the server name indication field. Clid uses Bayesian optimization and DBSCAN clustering to map clients to domain names that are most informative of their identity, as a first step to helping researchers and operators understand network clients. I showed with experiments that Clid is able to identify 'strongly associated' domain names for at least 60% of all clients in randomly sampled TLS connections.</span>
 
 Publications
 ------
