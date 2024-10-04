@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Master's student in Computer Science at Stanford University. I am intersted in building secure systems with cryptography that has real-life applications.
+Hello! I am a Master's student in Computer Science at Stanford University. I am broadly interested in building practical secure systems with cryptography.
 
 I am very fortunate to be advised by professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazieres](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/). I received my B.S. with [Honors](/files/honors.pdf) in Computer Science on the Systems track and B.S. in Mathematics from Stanford University in June 2024.
 
