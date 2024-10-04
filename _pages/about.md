@@ -13,21 +13,30 @@ I am very fortunate to be advised by professors [Dan Boneh](https://crypto.stanf
 
 <span style="color: red;">I am currently applying for Ph.D. programs in Computer Science for the fall 2025 entry term.</span>
 
+Here is my [CV](/files/cv.pdf).
+
 Research
 ------
-<span style="font-size: 18px;">Authentication Logging to a Public Blockchain</span>
-
+**Authentication Logging to a Public Blockchain**
 _Advisor: Professor David Mazieres_
+_Winter 2023–Present_
 
 **Lasso Over Lattices**
 _Advisor: Professor Dan Boneh_
+_Winter 2023–Present_
 
-**The Avg-Act Swap and 
+**Faster Fully Homomorphic Operations Applications For Machine Learning on Encrypted Data**
+_Advisor: Professor John Mitchell_
+_Summer 2023–Spring 2024_
 
-**
+**Identifying TLS Clients Using Unsupervised Learning on Domain Names**
+_Advisor: Professor Zakir Durumeric_
+_Winter 2023–Summer 2023_
+
 
 Publications
 ------
+
 
 
 Presentations
