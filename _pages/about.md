@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "Hi, I'm Ihyun!"
+title: "Welcome"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
