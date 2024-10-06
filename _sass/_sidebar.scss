@@ -42,7 +42,7 @@
   }
 
   h3, h4 {
-    font-size: $type-size-4;
+    font-size: $type-size-5;
   }
 
   p, li {
@@ -116,7 +116,6 @@
 }
 
 .author__name {
-  display: none;
   margin: 0;
 
   @include breakpoint($large) {
@@ -251,7 +250,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-4;
+    font-size: $type-size-5;
     text-decoration: none;
 
     &:hover {
