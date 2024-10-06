@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Ihyun Nam"
-title_separator          : 
+title_separator          : "-"
 name                     : &name "Ihyun Nam"
 description              : &description "Ihyun Nam's professional and personal website"
 url                      : https://ihyunnam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -22,8 +22,8 @@ repository               : "ihyunnam/ihyunnam.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : 
-  pronouns         : 
+  name             : "Ihyun Nam"
+  pronouns         : "she/her"
   bio              : "M.S. in Computer Science, B.S. in Computer Science + Math"
   location         : "Stanford, CA"
   employer         : "Stanford University"
