@@ -27,5 +27,5 @@ author_profile: true
 
 **Shuffle Squares and Reverse Shuffle Squares**
 <span style="font-size: 15px;"><br>_Advisor: Dr. Pawel Grzegrzolka_
-<br>Summer 2021–Fall 2021_</span>
+<br>_Summer 2021–Fall 2021_</span>
 <br>In a team of four, we proved a conjecture from 2012 on enumerating shuffle squares (words containing disjoint identical strings) and disproved a companion conjecture on reverse shuffle squares. These findings contributed to efficient error-correcting codes for deletion channels.
