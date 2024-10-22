@@ -9,11 +9,13 @@ redirect_from:
 
 Hello! I am a Master's student in Computer Science at Stanford University. My research interests are in secure systems and applied cryptography. In particular, I like to build reliable, practical, and scalable systems with (often new) cryptographic primitives.
 
-I am very fortunate to be advised by professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazieres](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/). I received my B.S. with [Honors](/files/The_Avg_Act_Swap__ACM_CODASPY_submission___Copy_.pdf) in Computer Science on the Systems track and B.S. in Mathematics from Stanford University in June 2024.
+I am very fortunate to be advised by professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazieres](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/). I received my B.S. with [Honors](/files/The_Avg_Act_Swap__ACM_CODASPY_submission___Copy_.pdf) in Computer Science in the Systems track, as well as B.S. in Mathematics from Stanford University in June 2024.
 
 <span style="color: red;">I am currently applying for Ph.D. programs in Computer Science for the fall 2025 entry term.</span>
 
-Here is my [CV](/files/CV.pdf).
+My Research Interests
+------
+I'm most interested in building systems that...
 
 Contact
 ------
