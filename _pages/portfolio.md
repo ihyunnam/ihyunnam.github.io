@@ -36,6 +36,7 @@ Presentations
 
 Grants and Awards
 ------
+[Stanford IORH Blockchain Grant](https://tselab.stanford.edu/iorh/index.html) (Fall 2024)
 [The Hoefer Prize for Writing in the Major](https://pwr.stanford.edu/hoefer-prize-essays-archive) (Spring 2024)
 <br>[Conference Scholarship for the Richard Tapia Conference](https://tapiaconference.cmd-it.org/) (Summer 2023)
 <br>[Major Grant](https://undergradresearch.stanford.edu/fund-your-project/explore-student-grants/major) (Summer 2023)
