@@ -13,7 +13,7 @@ I am very fortunate to be advised by Professors [Dan Boneh](https://crypto.stanf
 
 My Research Interests
 ------
-I'm broadly interested in secure systems and applied cryptography. I like to design, build, and evaluate systems that...
+I am broadly interested in secure systems and applied cryptography. I like to design, build, and evaluate systems that...
 <ol>
   <li> rely on advanced <em>cryptography</em> for precise security, </li>
   <li> can <em>evolve and scale</em> with changing system needs, and </li>
