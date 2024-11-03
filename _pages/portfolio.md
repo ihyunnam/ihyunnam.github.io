@@ -36,12 +36,12 @@ Presentations
 
 Grants and Awards
 ------
-[Stanford IORH Blockchain Grant](https://tselab.stanford.edu/iorh/index.html) (Fall 2024)
-<br>[The Hoefer Prize for Writing in the Major](https://pwr.stanford.edu/hoefer-prize-essays-archive) (Spring 2024)
-<br>[Conference Scholarship for the Richard Tapia Conference](https://tapiaconference.cmd-it.org/) (Summer 2023)
-<br>[Major Grant](https://undergradresearch.stanford.edu/fund-your-project/explore-student-grants/major) (Summer 2023)
-<br>[Talent Award of Korea](https://en.wikipedia.org/wiki/Talent_Award_of_Korea) (Winter 2022)
-<br>[Presidential Science Scholarship of Korea](https://educationusa.state.gov/scholarships/presidential-science-scholarship-korea-student-aid-foundation-hangugjanghagjaedan) (2020-24)
+[Stanford IORH Blockchain Grant](https://tselab.stanford.edu/iorh/index.html) for research on Authentication Logging (Fall 2024)
+<br>[The Hoefer Prize for Writing in the Major](https://pwr.stanford.edu/hoefer-prize-essays-archive) for CS Honors Thesis on the Avg-Act Swap (Spring 2024)
+<br>[Conference Scholarship for the Richard Tapia Conference](https://tapiaconference.cmd-it.org/) to represent Stanford's CS department (Summer 2023)
+<br>[Major Grant](https://undergradresearch.stanford.edu/fund-your-project/explore-student-grants/major) for independent research on the Avg-Act Swap (Summer 2023)
+<br>[Talent Award of Korea](https://en.wikipedia.org/wiki/Talent_Award_of_Korea) for accomplishments in Cryptography and community service (Winter 2022)
+<br>[Presidential Science Scholarship of Korea](https://educationusa.state.gov/scholarships/presidential-science-scholarship-korea-student-aid-foundation-hangugjanghagjaedan) for excellence in Math and plan to study Cryptography in university (2020-24)
 
 Teaching
 ------
