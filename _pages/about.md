@@ -17,7 +17,7 @@ I'm most interested in designing, building, and evaluating systems that...
 <ol>
   <li> rely on advanced _cryptography_ for precise security, </li>
   <li> can _evolve and scale_ with changing system needs, and </li>
-  <li> empower _users_.</li>
+  <li> empower _end-users_.</li>
 </ol>
 You can view my previous and current research projects in the [Research](https://ihyunnam.github.io/research/) tab.
 
