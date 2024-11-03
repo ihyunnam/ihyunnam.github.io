@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
@@ -37,11 +37,11 @@ Presentations
 Grants and Awards
 ------
 [Stanford IORH Blockchain Grant](https://tselab.stanford.edu/iorh/index.html) (Fall 2024)
-[The Hoefer Prize for Writing in the Major](https://pwr.stanford.edu/hoefer-prize-essays-archive) (Spring 2024)
+<br>[The Hoefer Prize for Writing in the Major](https://pwr.stanford.edu/hoefer-prize-essays-archive) (Spring 2024)
 <br>[Conference Scholarship for the Richard Tapia Conference](https://tapiaconference.cmd-it.org/) (Summer 2023)
 <br>[Major Grant](https://undergradresearch.stanford.edu/fund-your-project/explore-student-grants/major) (Summer 2023)
 <br>[Talent Award of Korea](https://en.wikipedia.org/wiki/Talent_Award_of_Korea) (Winter 2022)
-<br>Presidential Science Scholarship of Korea (2020-24)
+<br>[Presidential Science Scholarship of Korea](https://educationusa.state.gov/scholarships/presidential-science-scholarship-korea-student-aid-foundation-hangugjanghagjaedan) (2020-24)
 
 Teaching
 ------
