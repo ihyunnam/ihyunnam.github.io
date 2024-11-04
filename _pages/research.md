@@ -25,7 +25,7 @@ author_profile: true
 <br>_Winter 2023–Summer 2023_
 <br>Many existing rule-based TLS client identification tools rely on outdated databases and are unable to identify a wide range of clients in real-world networks. I proposed to build Clid, a new client identification tool that uses unsupervised learning on domain names from the server name indication field. Clid uses Bayesian optimization and DBSCAN clustering to map clients to domain names that are most informative of their identity, as a first step to helping researchers and operators understand network clients. I showed with experiments that Clid is able to identify 'strongly associated' domain names for at least 60% of all clients in randomly sampled TLS connections.
 
-**Shuffle Squares and Reverse Shuffle Squares [(Paper)](https://arxiv.org/pdf/2109.12455)**
+<img width="426" alt="Screenshot 2024-11-04 at 15 46 35" src="https://github.com/user-attachments/assets/cee39bbb-a101-45da-9a17-6b4035fc2941"> **Shuffle Squares and Reverse Shuffle Squares [(Paper)](https://arxiv.org/pdf/2109.12455)**
 <br>_Advisor: Dr. Pawel Grzegrzolka_
 <br>_Summer 2021–Fall 2021_
 <br>In a team of four, we proved a conjecture from 2012 on enumerating shuffle squares (words containing disjoint identical strings) and disproved a companion conjecture on reverse shuffle squares. These findings contributed to efficient error-correcting codes for deletion channels. _Paper published in the European Journal of Combinatorics (Vol 116)._
