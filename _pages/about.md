@@ -15,11 +15,11 @@ I am very fortunate to be advised by Professors [Dan Boneh](https://crypto.stanf
 
 My Research Interests
 ------
-I am broadly interested in secure systems and applied cryptography. I like to design, build, and evaluate systems that...
+I am broadly interested in secure systems and applied cryptography. I like to design, build, and evaluate systems that
 <ol>
-  <li> rely on advanced <em>cryptography</em> for precise security, </li>
-  <li> can <em>evolve and scale</em> with changing system needs, and </li>
-  <li> empower <em>end-users</em>.</li>
+  <li> rely on advanced <u>cryptography</u> for precise security, </li>
+  <li> can <u>evolve and scale</u> with changing system needs, and </li>
+  <li> empower <u>end-users</u>.</li>
 </ol>
 You can view my previous and current research projects in the [Research](https://ihyunnam.github.io/research/) tab.
 
