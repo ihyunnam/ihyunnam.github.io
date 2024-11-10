@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Master's student in Computer Science at Stanford University. My research interests are in secure systems and applied cryptography. **I am applying for Ph.D. programs in Computer Science for the fall 2025 entry term.**
+Hello! I am a Master's student in Computer Science at Stanford University. My research interests are in secure systems and applied cryptography.
+
+**I am applying for Ph.D. programs in Computer Science for the fall 2025 entry term.**
 
 I am very fortunate to be advised by Professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazieres](https://www.scs.stanford.edu/~dm/), and [Emma Dauterman](https://cs.stanford.edu/~edauterman/), and previously by Professor [John Mitchell](https://theory.stanford.edu/people/jcm/). I received my B.S. with [Honors](/files/The_Avg_Act_Swap__ACM_CODASPY_submission___Copy_.pdf) in Computer Science as well as B.S. in Mathematics from Stanford University in June 2024.
 
