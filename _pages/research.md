@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Publications
+Papers
 ------
 **The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3626232.3653277) [[code]](https://github.com/ihyunnam/Avg-Act-Swap)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ihyun Nam
@@ -30,7 +30,7 @@ Projects
 <br>Winter 2023–Present</span>
 <br>Authentication logging is a way to detect credential compromises by recording a user’s complete authentication history. However, many existing single sign-on schemes like “Sign in with Google” enforce security against attackers by compromising user privacy and giving a third party access to a user’s authentication history across all their accounts. We are developing a new privacy-preserving authentication logging protocol with improved security guarantees from the state-of-the-art system called Larch, that (1) does not require a trusted third party to run a log server and (2) guarantee user security even when their log server and a relying party are colluding. _Recipient of the IORH Blockchain Grant._
 
-**Sparse Polynomial Commitment Scheme from LaBRADOR**
+**A Sparse Polynomial Commitment Scheme from Lattices [(Paper)]()**
 <span style="color: grey;"><br>Advisor: Professor Dan Boneh
 <br>Winter 2023—Present</span>
 <br>Polynomial commitment schemes (PCS) are a primitive that allows one to commit to a polynomial and later prove its evaluations. A ‘sparse’ PCS enables efficient commitments to large structures, which would otherwise be too expensive, by leveraging the sparsity of data. Lattices offer quantum resistance that traditional assumptions lack, but lattice-based PCS is underexplored due to the high computational overhead expected when working with lattice structures. We are building a sparse PCS from lattices with sublinear verifier time, using an existing field-based sparse PCS called Spark and a proof system called LaBRADOR as our starting point. We have in mind applications to building post-quantum Lasso lookup arguments.
