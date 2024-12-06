@@ -37,3 +37,4 @@ Service
 [Stanford Women in Math Mentoring](https://swimm.stanford.edu/) - Board Member (2023-24); Mentee (2020-23)
 <br>[Stanford Womens Community Center](https://wcc.stanford.edu/) - Community Outreach Intern (2020-21)
 <br>[Stanford Math Tournament](https://sumo.stanford.edu/smt.html) - Problem Writer (2020-21)
+<br>Jeju Women's Association – Volunteer (2017–2018, 2024)
