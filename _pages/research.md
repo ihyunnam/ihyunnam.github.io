@@ -7,6 +7,10 @@ author_profile: true
 
 Publications
 ------
+**A Sparse Polynomial Commitment Scheme from Lattices** [[Preprint]](/files/spartic.pdf)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ihyun Nam** and Dan Boneh
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submitting to cryptography conferences
+
 **The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3626232.3653277) [[Code]](https://github.com/ihyunnam/Avg-Act-Swap)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ihyun Nam**
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [CODASPY '24](https://www.codaspy.org/2024/program.html) (Porto, Portugal)
@@ -17,10 +21,6 @@ Publications
 
 Preprints
 ------
-**A Sparse Polynomial Commitment Scheme from Lattices** [[Preprint]](/files/spartic.pdf)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ihyun Nam** and Dan Boneh
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submitting to cryptography conferences
-
 **Clid: Identifying TLS Clients With Unsupervised Learning on Domain Names** [[Preprint]](https://arxiv.org/pdf/2410.02040) [[Code]](https://github.com/ihyunnam/clid)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ihyun Nam** and Gerry Wan
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Posted on arXiv (2024)
@@ -36,22 +36,22 @@ Projects
 <br>Winter 2023–Present</span>
 <br>Authentication logging is a way to detect credential compromises by recording a user’s complete authentication history. However, many existing single sign-on schemes like “Sign in with Google” achieve universal logging by giving a third party access to a user’s authentication history across all their accounts, compromising privacy. We are developing a new privacy-preserving authentication logging protocol with improved security guarantees from the state-of-the-art solution [larch](https://arxiv.org/pdf/2305.19241), that (1) does not require a trusted log server during enrollment and audit times and (2) guarantees privacy against a colluding log server and relying party. _Recipient of the IORH Blockchain Grant._
 
-**A Sparse Polynomial Commitment Scheme from Lattices [(Preprint)](/files/spartic.pdf)**
+**A Sparse Polynomial Commitment Scheme from Lattices** [(Preprint)](/files/spartic.pdf)
 <span style="color: grey;"><br>Advisor: Professor Dan Boneh
 <br>Winter 2023—Present</span>
 <br>We built Spartic, the first sprase polynomial commitment scheme (PCS) from lattices with optimal prover costs linear in the polynomial sparsity. PCS is a primitive for comitting to a polynomial and later proving its evaluations. A ‘sparse’ PCS efficiently commits to large structures, which would otherwise be too expensive, by leveraging data sparsity. We adapted an existing field-based sparse PCS [Spark](https://eprint.iacr.org/2019/550.pdf) to work on rings, including its time-optimal memory checking algorithm.
 
-**Faster Fully Homomorphic Operations for Deep Circuits [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3626232.3653277) [(Code)](https://github.com/ihyunnam/Avg-Act-Swap)**
+**Faster Fully Homomorphic Operations for Deep Circuits** [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3626232.3653277) [(Code)](https://github.com/ihyunnam/Avg-Act-Swap)
 <span style="color: grey;"><br>Advisor: Professor John Mitchell
 <br>Summer 2023–Spring 2024</span>
 <img width="402" alt="Screenshot 2024-11-04 at 15 45 32" src="https://github.com/user-attachments/assets/1bbb1e7c-8f52-4457-8808-c339f7f44736" style="float: right; margin-left: 15px;"><br>Fully homomorphic encryption (FHE) is a powerful privacy-preserving tool for computing on encrypted data. Many applications that use FHE in convolutional neural networks (CNN) use CNNs that are designed for unencrypted data as black boxes, simply feeding them FHE-encrypted data. This naive approach raises two problems: (1) CNNs require many multiplications, which, while trivial in standard settings, become the primary bottleneck in homomorphic settings due to modular arithmetics; and (2) repeated computations can overflow FHE-encrypted data, which is fatal to data integrity as there is no method to detect plaintext overflows. I developed the Avg-Act Swap, a method to transform any existing CNN to achieve faster encrypted inference when working on FHE-encrypted data, and the first known plaintext overflow detection scheme in floating-point FHE.I implemented two CNNs that, when transformed with the Swap, achieved a 39% faster encrypted inference speed with 98% accuracy; and modified the Lenet-5 neural network with the Swap to gain a 27% speedup with 90% accuracy. _Paper published in the Proceedings of the 14th ACM Conference on Data and Application Security and Privacy (CODASPY '24)._
 
-**Identifying TLS Clients Using Unsupervised Learning on Domain Names [(Preprint)](https://arxiv.org/pdf/2410.02040) [(Code)](https://github.com/ihyunnam/clid)**
+**Identifying TLS Clients with Unsupervised Learning on Domain Names** [(Preprint)](https://arxiv.org/pdf/2410.02040) [(Code)](https://github.com/ihyunnam/clid)
 <span style="color: grey;"><br>Advisor: Professor Zakir Durumeric
 <br>Winter 2023–Summer 2023</span>
 <img width="200" alt="Screenshot 2024-11-04 at 15 46 35" src="https://github.com/user-attachments/assets/cee39bbb-a101-45da-9a17-6b4035fc2941" style="float: right; margin-left: 15px;"><br>Client identification is essential for network researchers to study anomalous clients, but the state-of-the-art tools can only identify a small subset of clients. I traced the problem to prior tools’ reliance on hardcoded databases that quickly grow outdated as the network landscape changes. With the aim of designing a self-sustaining solution, I built Clid: a TLS client identification tool that uses unsupervised learning and Bayesian optimization to identify domain names that are most indicative of the clients’ identities, among their previous connections. Clid maps at least 60% of clients in all test TLS connections to informative domain names. _Preprint posted on arXiv._
 
-**Shuffle Squares and Reverse Shuffle Squares [(Paper)](https://arxiv.org/pdf/2109.12455)**
+**Shuffle Squares and Reverse Shuffle Squares** [(Paper)](https://arxiv.org/pdf/2109.12455)
 <span style="color: grey;"><br>Advisor: Dr. Pawel Grzegrzolka
 <br>Summer 2021–Fall 2021</span>
 <img width="180" alt="Screenshot 2024-11-04 at 15 43 16" src="https://github.com/user-attachments/assets/3f216bf4-7d17-4cc0-85c5-d7f2b33e45c1" style="float: right; margin-left: 15px;"><br>We proved the Hanshall-Rampersad-Shallit conjecture (2012) on enumerating shuffle squares (words containing disjoint identical strings) and disproved a companion conjecture on reverse shuffle squares. We contributed to efficient error-correcting codes for deletion channels. _Paper published in the European Journal of Combinatorics (Vol 116). Presented at Stanford Symposia of Undergraduate Research and Public Service (2022)._
