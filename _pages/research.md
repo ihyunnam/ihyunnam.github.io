@@ -54,4 +54,4 @@ Projects
 **Shuffle Squares and Reverse Shuffle Squares** [(Paper)](https://arxiv.org/pdf/2109.12455)
 <span style="color: grey;"><br>Advisor: Dr. Pawel Grzegrzolka
 <br>Summer 2021–Fall 2021</span>
-<br>We proved the Hanshall-Rampersad-Shallit conjecture (2012) on enumerating shuffle squares (words containing disjoint identical strings) and disproved a companion conjecture on reverse shuffle squares. We contributed to efficient error-correcting codes for deletion channels. <ins>Paper published in the European Journal of Combinatorics (Vol 116)</ins> and presented at Stanford Symposia of Undergraduate Research and Public Service (2022).
+<br>We proved the Hanshall-Rampersad-Shallit conjecture (2012) on enumerating shuffle squares (words containing disjoint identical strings) and disproved a companion conjecture on reverse shuffle squares. We contributed to efficient error-correcting codes for deletion channels. <ins>Paper published in the European Journal of Combinatorics (Vol 116)</ins>.
