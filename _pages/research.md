@@ -19,7 +19,7 @@ Publications
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xiaoyu He, Emily Huang, **Ihyun Nam**, Rishubh Thaper (alphabetic order)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The European Journal of Combinatorics (Vol 116)
 
-Preprints
+Unpublished papers
 ------
 **Clid: Identifying TLS Clients With Unsupervised Learning on Domain Names** [[Paper]](https://arxiv.org/pdf/2410.02040) [[Code]](https://github.com/ihyunnam/clid)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ihyun Nam** and Gerry Wan
