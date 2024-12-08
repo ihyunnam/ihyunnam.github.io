@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: Welcome
+title: Hello!
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-Hello! I am a Master's student in Computer Science at Stanford University. My research interests are in secure systems and applied cryptography.
+I am a 5th year Master's student in Computer Science at Stanford University. My research interests are in secure systems and applied cryptography.
 
 **I am applying for Ph.D. programs in Computer Science for the fall 2025 entry term.**
 
