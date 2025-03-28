@@ -18,6 +18,7 @@ Presentations and Talks
 
 Grants and Awards
 ------
+Stanford School of Engineering Fellowship for top CS PhD students (Fall 2025)
 [Stanford IORH Blockchain Grant](https://tselab.stanford.edu/iorh/index.html) for research on Authentication Logging (Fall 2024)
 <br>[The Hoefer Prize for Writing in the Major](https://pwr.stanford.edu/hoefer-prize-essays-archive) for CS Honors Thesis on the Avg-Act Swap (Spring 2024)
 <br>[Conference Grant](https://undergradresearch.stanford.edu/fund-your-project/explore-student-grants/conference) for presenting accepted research at CODASPY '24 (Spring 2024)
