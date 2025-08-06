@@ -17,8 +17,8 @@ Publications
 
 Preprints
 ------
-**Passlog: Authentication Logging to a Public Blockchain** [[Preprint]](/files/passlog.pdf)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submitted to IEEE S&P 2025
+**Passlog: Authentication Logging to a Public Blockchain**
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In submission
 
 **A Sparse Polynomial Commitment Scheme from Lattices** [[Preprint]](/files/spartic.pdf)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ihyun Nam** and Dan Boneh
