@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an incoming CS PhD student at Stanford. My research intersts are in systems security and applied cryptography. Previously, I completed my B.S. in CS & Math (2024) and M.S. in CS (2025) at Stanford, where I was advised by Professors Dan Boneh, David Maziéres, and John Mitchell.
+I am an incoming CS PhD student at Stanford. My research intersts are in systems security and applied cryptography. Previously, I completed my two B.S. in CS and Math (2024) and M.S. in CS (2025) at Stanford, where I was advised by Professors Dan Boneh, David Maziéres, and John Mitchell.
 
 ## Research <a id="research"></a>
 **The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3626232.3653277) [[Code]](https://github.com/ihyunnam/Avg-Act-Swap)
