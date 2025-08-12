@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: 
 permalink: /research/
 author_profile: true
 ---
@@ -25,3 +25,23 @@ Preprints
 
 **A Survey of Multivariate Polynomial Commitment Schemes** [[Preprint]](https://arxiv.org/pdf/2306.11383)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ihyun Nam**
+
+
+Presentations
+------
+<b>"The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits"</b>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The 14th ACM Conference on Data and Application Security and Privacy (Porto, Portugal): June 2024
+
+<b>"The Avg-Act Swap: Towards Faster Machine Learning Applications of Fully Homomorphic Encryption"</b>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Symposia for Undergraduate Research and Public Service (Stanford, CA): October 2023
+
+<b>"Shuffle Squares and Reverse Shuffle Squares"</b>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Symposia for Undergraduate Research and Public Service (Stanford, CA): October 2022
+
+
+Awards
+------
+Stanford School of Engineering Fellowship (Fall 2025)
+<br>[The Hoefer Prize for Writing in the Major](https://pwr.stanford.edu/hoefer-prize-essays-archive) (Spring 2024)
+<br>[Talent Award of Korea](https://en.wikipedia.org/wiki/Talent_Award_of_Korea) (Winter 2022)
+<br>[Presidential Science Scholarship of Korea](https://educationusa.state.gov/scholarships/presidential-science-scholarship-korea-student-aid-foundation-hangugjanghagjaedan) (2020-24)
