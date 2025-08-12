@@ -8,9 +8,7 @@
 
 main:
   - title: "Research"
-    url: "/#publications"
-  - title: "Preprints"
-    url: "/#preprints"
+    url: "/#research"
   - title: "Presentations"
     url: "/#presentations"
   - title: "Teaching"
