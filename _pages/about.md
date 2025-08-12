@@ -38,8 +38,8 @@ I am an incoming CS PhD student at Stanford. My research intersts are in systems
 
 ## Teaching <a id="teaching"></a>
 Stanford Math 19 (Fall 2024)
-Stanford INTLPOL 268 (Fall 2023)
-Stanford University Mathematics Camp (Summer 2023)
+<br>Stanford INTLPOL 268 (Fall 2023)
+<br>Stanford University Mathematics Camp (Summer 2023)
 
 ## Awards <a id="awards"></a>
 Stanford School of Engineering Fellowship (2025)
