@@ -10,7 +10,7 @@ I am an incoming CS PhD student at Stanford. My research intersts are in systems
 
 Previously, I completed my M.S. in CS (2025) and two B.S. in CS with [Honors](/files/The_Avg_Act_Swap__ACM_CODASPY_submission___Copy_.pdf) and Mathematics (2024) at Stanford, where I was advised by Professors Dan Boneh, David Maziéres, and John Mitchell.
 
-## Publications <a id="publications"></a>
+## Research <a id="research"></a>
 **The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3626232.3653277) [[Code]](https://github.com/ihyunnam/Avg-Act-Swap)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Ihyun Nam*
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CODASPY '24 (Porto, Portugal)
@@ -49,5 +49,5 @@ Stanford School of Engineering Fellowship (Fall 2025)
 <br>[Talent Award of Korea](https://en.wikipedia.org/wiki/Talent_Award_of_Korea) (Winter 2022)
 <br>[Presidential Science Scholarship of Korea](https://educationusa.state.gov/scholarships/presidential-science-scholarship-korea-student-aid-foundation-hangugjanghagjaedan) (2020-24)
 
-## Contact <a id="contact"></a>
+## Contact
 Email me at ihyun [at] stanford [dot] edu.
