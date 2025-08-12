@@ -1,26 +1,14 @@
 ---
 permalink: /
-title: Hello!
+title: Ihyun Nam
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-I am interested broadly in systems security and applied cryptography research.
+I am an incoming CS PhD student at Stanford. My research intersts are in systems security and applied cryptography.
 
-I recently received my Master's (2025) and two Bachelor's in Computer Science with [Honors](/files/The_Avg_Act_Swap__ACM_CODASPY_submission___Copy_.pdf) and Mathematics (2024) from Stanford University. I was fortunate to be advised by Professors Dan Boneh, David Maziéres, Emma Dauterman, and John Mitchell.
-
-**I will be starting my PhD in Computer Science at Stanford in Fall 2025.**
-
-My research interests
-------
-I like to design, build, and evaluate systems that
-<ol>
-  <li> rely on advanced <u>cryptography</u> for precise security, </li>
-  <li> can <u>evolve and scale</u> with changing system needs, and </li>
-  <li> empower <u>end-users</u>.</li>
-</ol>
-You can view my previous and current research projects in the [Research](https://ihyunnam.github.io/research/) tab.
+Previously, I completed my M.S. in CS (2025) and two B.S. in CS with [Honors](/files/The_Avg_Act_Swap__ACM_CODASPY_submission___Copy_.pdf) and Mathematics (2024) at Stanford, where I was advised by Professors Dan Boneh, David Maziéres, and John Mitchell.
 
 Contact
 ------
