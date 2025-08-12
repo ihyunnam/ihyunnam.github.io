@@ -6,9 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an incoming CS PhD student at Stanford. My research intersts are in systems security and applied cryptography.
-
-Previously, I completed my M.S. in CS (2025) and two B.S. in CS with [Honors](/files/The_Avg_Act_Swap__ACM_CODASPY_submission___Copy_.pdf) and Mathematics (2024) at Stanford, where I was advised by Professors Dan Boneh, David Maziéres, and John Mitchell.
+I am an incoming CS PhD student at Stanford. My research intersts are in systems security and applied cryptography. Previously, I completed my B.S. in CS & Math (2024) and M.S. in CS (2025) at Stanford, where I was advised by Professors Dan Boneh, David Maziéres, and John Mitchell.
 
 ## Research <a id="research"></a>
 **The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3626232.3653277) [[Code]](https://github.com/ihyunnam/Avg-Act-Swap)
@@ -39,15 +37,15 @@ Previously, I completed my M.S. in CS (2025) and two B.S. in CS with [Honors](/f
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Symposia for Undergraduate Research and Public Service (Stanford, CA): October 2022
 
 ## Teaching <a id="teaching"></a>
-[Math 19: Calculus](https://explorecourses.stanford.edu/search?q=MATH19) - Teaching Assistant (Fall 2024)
-<br>[INTLPOL 268: Hack Lab](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=INTLPOL%20268%3A%20Hack%20Lab%3A%20Introduction%20to%20Cybersecurity&collapse=) - Lab Teaching Assistant (Fall 2023)
-<br>[Stanford University Mathematics Camp](https://sumac.spcs.stanford.edu/) - Teaching Assistant and Residential Counselor (Summer 2023)
+Stanford Math 19 (Fall 2024)
+Stanford INTLPOL 268 (Fall 2023)
+Stanford University Mathematics Camp (Summer 2023)
 
 ## Awards <a id="awards"></a>
-Stanford School of Engineering Fellowship (Fall 2025)
-<br>[The Hoefer Prize for Writing in the Major](https://pwr.stanford.edu/hoefer-prize-essays-archive) (Spring 2024)
-<br>[Talent Award of Korea](https://en.wikipedia.org/wiki/Talent_Award_of_Korea) (Winter 2022)
-<br>[Presidential Science Scholarship of Korea](https://educationusa.state.gov/scholarships/presidential-science-scholarship-korea-student-aid-foundation-hangugjanghagjaedan) (2020-24)
+Stanford School of Engineering Fellowship (2025)
+<br>[The Hoefer Prize for Writing in the Major](https://pwr.stanford.edu/hoefer-prize-essays-archive) (2024)
+<br>[Talent Award of Korea](https://en.wikipedia.org/wiki/Talent_Award_of_Korea) (2022)
+<br>[Presidential Science Scholarship](https://educationusa.state.gov/scholarships/presidential-science-scholarship-korea-student-aid-foundation-hangugjanghagjaedan) (2020-24)
 
 ## Contact
 Email me at ihyun [at] stanford [dot] edu.
