@@ -28,7 +28,7 @@ I am an incoming CS PhD student at Stanford. My research intersts are in systems
 
 ## Presentations <a id="presentations"></a>
 <b>"The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits"</b>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The 14th ACM Conference on Data and Application Security and Privacy (Porto, Portugal): June 2024
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CODASPY (Porto, Portugal): June 2024
 
 <b>"The Avg-Act Swap: Towards Faster Machine Learning Applications of Fully Homomorphic Encryption"</b>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Symposia for Undergraduate Research and Public Service (Stanford, CA): October 2023
