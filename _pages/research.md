@@ -39,6 +39,12 @@ Presentations
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Symposia for Undergraduate Research and Public Service (Stanford, CA): October 2022
 
 
+Teaching
+------
+[Math 19: Calculus](https://explorecourses.stanford.edu/search?q=MATH19) - Teaching Assistant (Fall 2024)
+<br>[INTLPOL 268: Hack Lab](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=INTLPOL%20268%3A%20Hack%20Lab%3A%20Introduction%20to%20Cybersecurity&collapse=) - Lab Teaching Assistant (Fall 2023)
+<br>[Stanford University Mathematics Camp](https://sumac.spcs.stanford.edu/) - Teaching Assistant and Residential Counselor (Summer 2023)
+
 Awards
 ------
 Stanford School of Engineering Fellowship (Fall 2025)
