@@ -37,9 +37,9 @@ I am an incoming Computer Science Ph.D. student at Stanford University. My resea
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Symposia for Undergraduate Research and Public Service (Stanford, CA): October 2022
 
 ## Teaching <a id="teaching"></a>
-Stanford Math 19 (Fall 2024)
-<br>Stanford INTLPOL 268 (Fall 2023)
-<br>Stanford University Mathematics Camp (Summer 2023)
+Teaching Assistant, Stanford Math 19 (Fall 2024)
+<br>Teaching Assistant, Stanford Hack Lab (Fall 2023)
+<br>Teaching Assistant, Stanford University Mathematics Camp (Summer 2023)
 
 ## Awards <a id="awards"></a>
 Stanford School of Engineering Fellowship (2025)
