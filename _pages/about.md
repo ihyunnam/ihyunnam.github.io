@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first year Computer Science Ph.D. student at Stanford University, rotating with Professor Caroline Trippel. I am broadly interested in systems security. Previously, I earned my two B.S. in Mathematics and Computer Science (2024) and M.S. in Computer Science (2025) at Stanford, where I was extremely fortunate to be advised by Professors Dan Boneh, David Maziéres, and John Mitchell.
+I am a first year Computer Science Ph.D. student at Stanford University, rotating with Professor Caroline Trippel. I am broadly interested in systems security. I completed my two B.S. in Mathematics and Computer Science (2024) and M.S. in Computer Science (2025) at Stanford, advised by Professors Dan Boneh, David Maziéres, and John Mitchell.
 
 ## Research <a id="research"></a>
 **Passlog: Authentication Logging to a Public Blockchain**
