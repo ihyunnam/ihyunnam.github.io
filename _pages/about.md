@@ -9,7 +9,7 @@ redirect_from:
 I am a first year Computer Science Ph.D. student at Stanford University, rotating with Professor Caroline Trippel. I am broadly interested in systems security. I completed my two B.S. in Mathematics and Computer Science (2024) and M.S. in Computer Science (2025) at Stanford, advised by Professors Dan Boneh, David Maziéres, and John Mitchell.
 
 ## Research <a id="research"></a>
-**Passlog: Authentication Logging to a Public Blockchain**
+**Passlog: Private Authentication Logging with Public State**
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Under submission
 
 **The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3626232.3653277) [[Code]](https://github.com/ihyunnam/Avg-Act-Swap)
