@@ -10,7 +10,7 @@ I am a first year Computer Science Ph.D. student at Stanford University, rotatin
 
 ## Research <a id="research"></a>
 **Passlog: Authentication Logging to a Public Blockchain**
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In submission
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Under submission
 
 **The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3626232.3653277) [[Code]](https://github.com/ihyunnam/Avg-Act-Swap)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Ihyun Nam*
