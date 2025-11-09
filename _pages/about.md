@@ -55,3 +55,4 @@ Email me at ihyun [at] stanford [dot] edu.
 ## Misc <a id="misc"></a>
 These are just some of the writings that I enjoyed reading & that continue to impact my work!
 <br>[The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
+<br>[You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
