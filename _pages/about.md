@@ -49,5 +49,9 @@ Stanford School of Engineering Fellowship (2025)
 <br>[Talent Award of Korea](https://en.wikipedia.org/wiki/Talent_Award_of_Korea) (2022)
 <br>[Presidential Science Scholarship](https://educationusa.state.gov/scholarships/presidential-science-scholarship-korea-student-aid-foundation-hangugjanghagjaedan) (2020-24)
 
-## Contact
+## Contact <a id="contact"></a>
 Email me at ihyun [at] stanford [dot] edu.
+
+## Misc <a id="misc"></a>
+These are just some of the writings that continue to impact my work!
+[The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
