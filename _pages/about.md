@@ -48,9 +48,6 @@ Stanford School of Engineering Fellowship (2025)
 **A Survey of Multivariate Polynomial Commitment Schemes** [[Preprint]](https://arxiv.org/pdf/2306.11383)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Ihyun Nam*
 
-## Contact <a id="contact"></a>
-Email me at ihyun [at] stanford [dot] edu.
-
 ## Misc <a id="misc"></a>
 These are some of the writings that I enjoyed reading and that continue to impact my work.
 <br>[The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
