@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a first year Computer Science Ph.D. student at Stanford University, rotating with [Professor Caroline Trippel](https://cs.stanford.edu/people/trippel/). I am broadly interested in cryptography and systems security. I completed my two B.S. in Mathematics and Computer Science with [Honors](_pages/CS_Honors_Thesis_submitted__Ihyun_Nam_[22297].pdf) (2024) and M.S. in Computer Science (2025) at Stanford, advised by Professors Dan Boneh, David Maziéres, and John Mitchell.
 
-## Publications <a id="research"></a>
+## Publications <a id="publications"></a>
 **Passlog: Private Authentication Logging with Public State**
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Under submission
 
