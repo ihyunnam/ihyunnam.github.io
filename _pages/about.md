@@ -20,11 +20,9 @@ I am a first year Computer Science Ph.D. student at Stanford University, rotatin
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xiaoyu He, Emily Huang, *Ihyun Nam*, Rishubh Thaper (alphabetic order)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The European Journal of Combinatorics (Vol 116)
 
-## Presentations <a id="presentations"></a>
+## Talks <a id="talks"></a>
 <b>"The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits"</b>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CODASPY (Porto, Portugal): June 2024
-
-<b>"The Avg-Act Swap: Towards Faster Machine Learning Applications of Fully Homomorphic Encryption"</b>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Symposia for Undergraduate Research and Public Service (Stanford, CA): October 2023
 
 <b>"Shuffle Squares and Reverse Shuffle Squares"</b>
