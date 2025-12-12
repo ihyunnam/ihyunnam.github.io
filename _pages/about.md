@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first year Computer Science Ph.D. student at Stanford University, rotating with [Professor Caroline Trippel](https://cs.stanford.edu/people/trippel/). I am broadly interested in cryptography and systems security. I completed my two B.S. in Mathematics and Computer Science with [Honors](https://drive.google.com/file/d/1iItZK_BULq7ib9cXpXDlWJ8SxgmIb4R-/view) (2024) and M.S. in Computer Science (2025) at Stanford, advised by Professors Dan Boneh, David Maziéres, and John Mitchell.
+I am a first year Computer Science Ph.D. student at Stanford University, working with Professor Emma Dauterman. I am broadly interested in cryptography and systems security. I finished my B.S. in Mathematics and Computer Science with Honors (2024) and M.S. in Computer Science (2025) at Stanford.
 
 ## Publications <a id="publications"></a>
 **Passlog: Private Authentication Logging with Public State**
