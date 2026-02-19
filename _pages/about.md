@@ -22,6 +22,13 @@ I am a first year Computer Science Ph.D. student at Stanford University, working
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xiaoyu He, Emily Huang, *Ihyun Nam*, Rishubh Thaper (alphabetic order)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The European Journal of Combinatorics (Vol 116)
 
+## Preprints <a id="past"></a>
+**A Sparse Polynomial Commitment Scheme from Lattices** [[Preprint]](/files/spartic.pdf)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Ihyun Nam* and Dan Boneh
+
+**A Survey of Multivariate Polynomial Commitment Schemes** [[Preprint]](https://arxiv.org/pdf/2306.11383)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Ihyun Nam*
+
 ## Talks <a id="talks"></a>
 <b>"The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits"</b>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CODASPY (Porto, Portugal): June 2024
@@ -40,13 +47,6 @@ Stanford School of Engineering Fellowship (2025)
 <br>[The Hoefer Prize for Writing in the Major](https://pwr.stanford.edu/hoefer-prize-essays-archive) (2024)
 <br>[Talent Award of Korea](https://en.wikipedia.org/wiki/Talent_Award_of_Korea) (2022)
 <br>[Presidential Science Scholarship](https://educationusa.state.gov/scholarships/presidential-science-scholarship-korea-student-aid-foundation-hangugjanghagjaedan) (2020-24)
-
-## Past Work <a id="past"></a>
-**A Sparse Polynomial Commitment Scheme from Lattices** [[Preprint]](/files/spartic.pdf)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Ihyun Nam* and Dan Boneh
-
-**A Survey of Multivariate Polynomial Commitment Schemes** [[Preprint]](https://arxiv.org/pdf/2306.11383)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Ihyun Nam*
 
 ## Misc <a id="misc"></a>
 These are some of the writings that I enjoyed reading and that continue to impact my work.
