@@ -30,6 +30,10 @@ I am a first year Computer Science Ph.D. student at Stanford University, working
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Ihyun Nam*
 
 ## Talks <a id="talks"></a>
+<b>"Passlog: Authentication Logging with Public State"</b>
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Upcoming) Security Lunch (Stanford, CA): April 15, 2026
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Upcoming) Security Forum (Stanford, CA): April 20, 2026
+
 <b>"The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits"</b>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CODASPY (Porto, Portugal): June 2024
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Symposia for Undergraduate Research and Public Service (Stanford, CA): October 2023
