@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first year Computer Science Ph.D. student at Stanford University, working with Professor [Emma Dauterman](https://cs.stanford.edu/~edauterman/). I am broadly interested in cryptography and systems security. I finished my M.S. and B.S. at Stanford, where I was advised by Professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazières](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/home.html).
+I am a first year Computer Science Ph.D. student at Stanford University, currently rotating with Professor [David Mazières](https://www.scs.stanford.edu/~dm/). I am broadly interested in applied cryptography and systems security. I finished my M.S. and B.S. at Stanford, where I was advised by Professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazières](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/home.html).
 
 [Curriculum Vitae](/files/cv.pdf)
 
