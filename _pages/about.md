@@ -38,7 +38,7 @@ I am a first year Computer Science Ph.D. student at Stanford University, current
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CODASPY (Porto, Portugal): June 2024
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Symposia for Undergraduate Research and Public Service (Stanford, CA): October 2023
 
-<b>"Shuffle Squares and Reverse Shuffle Squares"</b>
+<b>Shuffle Squares and Reverse Shuffle Squares</b>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Symposia for Undergraduate Research and Public Service (Stanford, CA): October 2022
 
 ## Teaching <a id="teaching"></a>
