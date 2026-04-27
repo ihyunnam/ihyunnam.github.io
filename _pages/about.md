@@ -11,9 +11,6 @@ I am a first year Computer Science Ph.D. student at Stanford University, current
 [Curriculum Vitae](/files/cv.pdf)
 
 ## Publications <a id="publications"></a>
-**Passlog: Private Authentication Logging with Public State**
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Under submission
-
 **The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3626232.3653277) [[Code]](https://github.com/ihyunnam/Avg-Act-Swap)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Ihyun Nam*
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CODASPY '24 (Porto, Portugal)
