@@ -46,11 +46,11 @@ Teaching Assistant, Math 19 (Fall 2024)
 
 ## Awards <a id="awards"></a>
 Stanford School of Engineering Fellowship (Stanford University, 2025)
-The Hoefer Prize for Writing in the Major (Stanford University, 2024)
-Talent Award of Korea (Ministry of Education, South Korea, 2022)
-Presidential Science Scholarship (Korea Student Aid Foundation, 2020-24)
+<br>The Hoefer Prize for Writing in the Major (Stanford University, 2024)
+<br>Talent Award of Korea (Ministry of Education, South Korea, 2022)
+<br>Presidential Science Scholarship (Korea Student Aid Foundation, 2020-24)
 
 ## Misc <a id="misc"></a>
-These are some of the writings that I enjoyed reading and that continue to impact my work.
+These are some of the writings I’ve found especially impactful and continue to return to:
 <br>[The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
 <br>[You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
