@@ -40,9 +40,9 @@ Previously, I earned my B.S. in Mathematics, B.S. in Computer Science (Honors), 
 
 ## Teaching <a id="teaching"></a>
 **Stanford University**
-Teaching Assistant, Math 19 (Fall 2024)
-<br>Teaching Assistant, Hack Lab (Fall 2023)
-<br>Teaching Assistant, Stanford University Mathematics Camp (Summer 2023)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teaching Assistant, Math 19 (Fall 2024)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teaching Assistant, Hack Lab (Fall 2023)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teaching Assistant, Stanford University Mathematics Camp (Summer 2023)
 
 ## Awards <a id="awards"></a>
 Stanford School of Engineering Fellowship (Stanford University, 2025)
