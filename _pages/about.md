@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first year Computer Science Ph.D. student at Stanford University, currently rotating with Professor [David Mazières](https://www.scs.stanford.edu/~dm/). I am broadly interested in applied cryptography and systems security. I finished my M.S. and B.S. at Stanford, where I was advised by Professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazières](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/home.html).
+I am a first year Computer Science Ph.D. student at Stanford University, currently rotating with Professor [David Mazières](https://www.scs.stanford.edu/~dm/). I am broadly interested in applied cryptography and systems security. Previously, I completed my M.S. and B.S. at Stanford. I was extremely fortunate to be advised by Professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazières](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/home.html).
 
 [Curriculum Vitae](/files/cv.pdf)
 
@@ -39,8 +39,9 @@ I am a first year Computer Science Ph.D. student at Stanford University, current
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Symposia for Undergraduate Research and Public Service (Stanford, CA): October 2022
 
 ## Teaching <a id="teaching"></a>
-Teaching Assistant, Stanford Math 19 (Fall 2024)
-<br>Teaching Assistant, Stanford Hack Lab (Fall 2023)
+**Stanford University**
+Teaching Assistant, Math 19 (Fall 2024)
+<br>Teaching Assistant, Hack Lab (Fall 2023)
 <br>Teaching Assistant, Stanford University Mathematics Camp (Summer 2023)
 
 ## Awards <a id="awards"></a>
