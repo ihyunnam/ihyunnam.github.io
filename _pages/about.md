@@ -45,10 +45,10 @@ Teaching Assistant, Math 19 (Fall 2024)
 <br>Teaching Assistant, Stanford University Mathematics Camp (Summer 2023)
 
 ## Awards <a id="awards"></a>
-Stanford School of Engineering Fellowship (2025)
-<br>[The Hoefer Prize for Writing in the Major](https://pwr.stanford.edu/hoefer-prize-essays-archive) (2024)
-<br>[Talent Award of Korea](https://en.wikipedia.org/wiki/Talent_Award_of_Korea) (2022)
-<br>[Presidential Science Scholarship](https://educationusa.state.gov/scholarships/presidential-science-scholarship-korea-student-aid-foundation-hangugjanghagjaedan) (2020-24)
+Stanford School of Engineering Fellowship (Stanford University, 2025)
+The Hoefer Prize for Writing in the Major (Stanford University, 2024)
+Talent Award of Korea (Ministry of Education, South Korea, 2022)
+Presidential Science Scholarship (Korea Student Aid Foundation, 2020-24)
 
 ## Misc <a id="misc"></a>
 These are some of the writings that I enjoyed reading and that continue to impact my work.
