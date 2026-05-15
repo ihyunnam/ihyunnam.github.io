@@ -27,6 +27,9 @@ Previously, I earned my B.S. in Mathematics, B.S. in Computer Science (Honors), 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Ihyun Nam*
 
 ## Talks <a id="talks"></a>
+<b>Synchronous Key Rotatins in Federated Systems</b>
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stanford Security Lunch _Lightning Talk_ (Stanford, CA): May 2026
+
 <b>Passlog: Authentication Logging with Public State</b>
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stanford Security Lunch (Stanford, CA): April 2026
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stanford Computer Forum (Stanford, CA): April 2026
