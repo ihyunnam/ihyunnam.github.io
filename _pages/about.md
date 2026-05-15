@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first year Computer Science Ph.D. student at Stanford University, currently rotating with Professor [David Mazières](https://www.scs.stanford.edu/~dm/). My research interests are in cryptography and systems security.
+I am a first year Computer Science Ph.D. student at Stanford University, co-advised by Professors [David Mazières](https://www.scs.stanford.edu/~dm/) and [Emma Dauterman](https://cs.stanford.edu/~edauterman/). My research interests are in applied cryptography and systems security.
 
-Previously, I earned my B.S. in Math and Computer Science (Honors), and M.S. in Computer Science from Stanford. During that time, I was fortunate to be advised by Professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazières](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/home.html).
+Previously, I completed my B.S. in Math and Computer Science (Honors), and M.S. in Computer Science at Stanford. During that time, I had the privilege of being advised by Professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazières](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/home.html).
 
 ## Publications <a id="publications"></a>
 **The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3626232.3653277) [[Code]](https://github.com/ihyunnam/Avg-Act-Swap)
