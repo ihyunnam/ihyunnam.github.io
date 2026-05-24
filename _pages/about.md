@@ -27,7 +27,7 @@ Previously, I completed my B.S. in Math and Computer Science (Honors), and M.S. 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Ihyun Nam*
 
 ## Talks <a id="talks"></a>
-<b>Synchronous Key Rotatins in Federated Systems</b>
+<b>Synchronous Key Rotations in Federated Systems</b>
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stanford Security Lunch _Lightning Talk_ (Stanford, CA): May 2026
 
 <b>Passlog: Authentication Logging with Public State</b>
