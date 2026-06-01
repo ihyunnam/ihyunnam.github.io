@@ -33,6 +33,8 @@ Previously, I completed my B.S. in Math and Computer Science (Honors), and M.S. 
 <b>Passlog: Authentication Logging with Public State</b>
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stanford Security Lunch (Stanford, CA): April 2026
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stanford Computer Forum (Stanford, CA): April 2026
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Upcoming) The Science of Blockchain Conference (Stanford, CA): July 2026
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Upcoming) The Stanford Input Output Global Research Hub (Stanford, CA): July 2026
 
 <b>The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits</b>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CODASPY (Porto, Portugal): June 2024
