@@ -58,6 +58,6 @@ Stanford School of Engineering Fellowship (Stanford University, 2025)
 <br>Presidential Science Scholarship (Korea Student Aid Foundation, 2020-24)
 
 ## Misc <a id="misc"></a>
-These are some of the writings I’ve found especially impactful and continue to return to:
+These are some of the writings I enjoyed reading:
 <br>[The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
 <br>[You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
