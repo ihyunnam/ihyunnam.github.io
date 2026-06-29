@@ -21,12 +21,6 @@ Starting in Fall 2026, I'll be organizing [Stanford Security Lunch](https://secu
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xiaoyu He, Emily Huang, *Ihyun Nam*, Rishubh Thaper (alphabetic order)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The European Journal of Combinatorics (Vol 116)
 
-## Preprints <a id="past"></a>
-**A Sparse Polynomial Commitment Scheme from Lattices** [[Preprint]](/files/spartic.pdf)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Ihyun Nam* and Dan Boneh
-
-**A Survey of Multivariate Polynomial Commitment Schemes** [[Preprint]](https://arxiv.org/pdf/2306.11383)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Ihyun Nam*
 
 ## Talks <a id="talks"></a>
 <b>Synchronous Key Rotations in Federated Systems</b>
@@ -56,8 +50,3 @@ Stanford School of Engineering Fellowship (Stanford University, 2025)
 <br>The Hoefer Prize for Writing in the Major (Stanford University, 2024)
 <br>Talent Award of Korea (Ministry of Education, South Korea, 2022)
 <br>Presidential Science Scholarship (Korea Student Aid Foundation, 2020-24)
-
-## Misc <a id="misc"></a>
-These are some of the writings I enjoyed reading:
-<br>[The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
-<br>[You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
