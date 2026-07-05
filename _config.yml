@@ -177,6 +177,11 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# GitHub Pages runs jekyll-titles-from-headings by default, which was turning the
+# first "## About" heading into a duplicate page-title <h1>. Disable it.
+titles_from_headings:
+  enabled: false
+
 
 # Conversion
 markdown: kramdown

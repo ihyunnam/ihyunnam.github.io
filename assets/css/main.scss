@@ -62,18 +62,22 @@ body {
 @include breakpoint($large) {
   #main {
     display: grid;
-    grid-template-columns: 250px minmax(0, 1fr);
+    grid-template-columns: 230px minmax(0, 1fr);
     column-gap: 2.5em;
-    align-items: stretch;   // left rail fills the full height of the row
+    align-items: start;
+    max-width: 1240px;      // overall page width
   }
   #main > .sidebar {
     grid-column: 1;
-    position: static;       // override theme's .sticky; sticky moves to inner
+    position: sticky;       // full-height rail that stays fixed while scrolling
+    top: 0;
+    height: 100vh;
+    align-self: start;
+    overflow-y: auto;
     width: auto;
     max-width: none;
     float: none;
     margin: 0;
-    padding-right: 1.4em;
   }
   #main > .page {
     grid-column: 2;
@@ -81,24 +85,20 @@ body {
     max-width: none;
     float: none;
     margin: 0;
+    padding-top: 2em;   // content breathing room (rail stays flush at top)
   }
 }
 
 .sidebar {
   opacity: 1 !important;   // theme dims it until hover; keep it present
   background: $dir-side;
-  border: 1px solid $dir-rule;
-  border-radius: 14px;
-  padding: 1.6em 1.4em;
+  border: 0;
+  border-right: 1px solid $dir-rule;   // a flush rail, not a rounded card
+  border-radius: 0;
+  padding: 2em 1.4em;
+  font-size: 1.1em;        // scale everything in the sidebar up a touch
 }
 
-// keep the profile visible while the rail extends past it
-.sidebar__inner {
-  @include breakpoint($large) {
-    position: sticky;
-    top: 2em;
-  }
-}
 
 // email line that opens the main column (replaces the old page title)
 .page__content .contact-line {
@@ -109,8 +109,8 @@ body {
 .author__avatar {
   @include breakpoint($large) { width: 100%; }
   img {
-    width: 66%;
-    max-width: 66%;    // ~10% larger; whole portrait, uncropped, square edges
+    width: 89%;
+    max-width: 89%;    // 20% larger; whole image, uncropped, square edges
     height: auto;
     border-radius: 0;
     padding: 0;
@@ -121,16 +121,16 @@ body {
 
 .author__name {
   margin: 0.6em 0 0.1em;
-  font-size: 1.52em;
+  font-size: 1.5em;     // 1.5 x sidebar's 1.1em = 1.65em, matching the section titles
   font-weight: 700;
   letter-spacing: -0.015em;
   color: $dir-ink;
 }
 .author__pronouns { color: $dir-muted; font-size: 0.82em; letter-spacing: 0.02em; }
-.author__bio { color: $dir-muted; font-size: 0.95em; line-height: 1.5; margin-bottom: 0.35em; }
+.author__bio { color: $dir-muted; font-size: 1.2em; line-height: 1.5; margin-bottom: 0.35em; }
 .author__email {
   margin: 0.15em 0 0;
-  font-size: 0.92em;
+  font-size: 1.17em;
   a {
     color: $dir-accent;
     text-decoration: none;
@@ -207,14 +207,14 @@ body {
   font-size: 1em;
 
   h2 {
-    margin: 2.2em 0 0.7em;
-    padding-top: 1.4em;
-    border-top: 1px solid $dir-rule;
-    font-size: 2.05em;          // +4pt larger again
+    margin: 1.8em 0 0.7em;
+    padding-bottom: 0;
+    border-bottom: 0;           // remove the theme's under-title rule (the "bars")
+    font-size: 1.65em;          // -2pt more
     font-weight: 700;
     letter-spacing: -0.01em;
     color: $dir-accent;         // theme blue
-    &:first-of-type { margin-top: 1.6em; }
+    &:first-of-type { margin-top: 0; }
     .header-link, a.anchorjs-link { display: none; }
   }
 
@@ -234,9 +234,8 @@ body {
 
 /* --- Publications: entry rows with pill links (Kaviani-style) --- */
 .page__content .pub-entry {
-  margin: 0;
-  padding: 1.15em 0;
-  border-top: 1px solid $dir-rule;
+  margin: 0 0 0.6em;
+  padding: 0;
   color: $dir-muted;
   line-height: 1.5;
 
@@ -285,9 +284,7 @@ body {
 
 /* --- Vertical navigation menu in the left sidebar --- */
 .sidebar__nav {
-  margin-top: 1.5em;
-  padding-top: 1.3em;
-  border-top: 1px solid $dir-rule;
+  margin-top: 1.2em;
 
   ul { list-style: none; margin: 0; padding: 0; }
   li { margin: 0; }
@@ -295,7 +292,7 @@ body {
     display: block;
     padding: 0.42em 0;
     color: $dir-ink;
-    font-size: 0.98em;
+    font-size: 1.23em;
     font-weight: 500;
     line-height: 1.3;
     text-decoration: none;
@@ -309,8 +306,10 @@ body {
   }
 }
 
-/* Top navigation removed — reclaim the space it used to occupy */
-#main { padding-top: 1.8em; }
+/* No masthead: let the sidebar rail sit flush at the very top of the page,
+   so it starts at the top (no whitespace) and never shifts on scroll. */
+body { padding-top: 0; }
+#main { margin-top: 0; padding-top: 0; }
 
 /* ==========================================================================
    Dark mode (first pass — follows the OS preference)

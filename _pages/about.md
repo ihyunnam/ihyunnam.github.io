@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## About
+
 I'm a first year Computer Science Ph.D. student at Stanford University, co-advised by Professors [David Mazières](https://www.scs.stanford.edu/~dm/) and [Emma Dauterman](https://cs.stanford.edu/~edauterman/). My research interests are in applied cryptography and systems security.
 
 Previously, I completed my B.S. in Math and Computer Science (Honors), and M.S. in Computer Science at Stanford. During that time, I had the privilege of being advised by Professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazières](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/home.html).
@@ -46,7 +48,7 @@ Starting in Fall 2026, I'll be organizing [Stanford Security Lunch](https://secu
 <p class="entry-title"><b>Stanford University</b></p>
 <p class="entry-lines">Teaching Assistant, Math 19 (Fall 2024)<br>Teaching Assistant, Hack Lab (Fall 2023)<br>Teaching Assistant, Stanford University Mathematics Camp (Summer 2023)</p>
 
-## Awards <a id="awards"></a>
+## Awards &amp; Fellowships <a id="awards"></a>
 Stanford School of Engineering Fellowship (Stanford University, 2025)
 <br>The Hoefer Prize for Writing in the Major (Stanford University, 2024)
 <br>Talent Award of Korea (Ministry of Education, South Korea, 2022)
