@@ -1,0 +1,384 @@
+---
+---
+
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
+
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
+
+@import "reset";
+@import "base";
+
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+/* ==========================================================================
+   "The Directory" — custom redesign layer
+   Sticky profile card · slate-blue accent · directory-style sections
+   ========================================================================== */
+
+$dir-ink    : #24282e;
+$dir-muted  : #626a75;
+$dir-accent : #345f8c;
+$dir-rule   : #e6e9ee;
+$dir-side   : #f6f8fa;
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: $dir-ink;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* --- Profile sidebar as an always-visible, sticky card --- */
+// Two-column as a grid so the left rail can stretch to full page height
+@include breakpoint($large) {
+  #main {
+    display: grid;
+    grid-template-columns: 250px minmax(0, 1fr);
+    column-gap: 2.5em;
+    align-items: stretch;   // left rail fills the full height of the row
+  }
+  #main > .sidebar {
+    grid-column: 1;
+    position: static;       // override theme's .sticky; sticky moves to inner
+    width: auto;
+    max-width: none;
+    float: none;
+    margin: 0;
+    padding-right: 1.4em;
+  }
+  #main > .page {
+    grid-column: 2;
+    width: auto;
+    max-width: none;
+    float: none;
+    margin: 0;
+  }
+}
+
+.sidebar {
+  opacity: 1 !important;   // theme dims it until hover; keep it present
+  background: $dir-side;
+  border: 1px solid $dir-rule;
+  border-radius: 14px;
+  padding: 1.6em 1.4em;
+}
+
+// keep the profile visible while the rail extends past it
+.sidebar__inner {
+  @include breakpoint($large) {
+    position: sticky;
+    top: 2em;
+  }
+}
+
+// email line that opens the main column (replaces the old page title)
+.page__content .contact-line {
+  margin: 0 0 1.6em;
+  font-size: 1.05em;
+}
+
+.author__avatar {
+  @include breakpoint($large) { width: 100%; }
+  img {
+    width: 66%;
+    max-width: 66%;    // ~10% larger; whole portrait, uncropped, square edges
+    height: auto;
+    border-radius: 0;
+    padding: 0;
+    border: 0;
+    box-shadow: 0 1px 2px rgba(20,25,32,.08), 0 16px 34px -16px rgba(20,25,32,.4);
+  }
+}
+
+.author__name {
+  margin: 0.6em 0 0.1em;
+  font-size: 1.52em;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  color: $dir-ink;
+}
+.author__pronouns { color: $dir-muted; font-size: 0.82em; letter-spacing: 0.02em; }
+.author__bio { color: $dir-muted; font-size: 0.95em; line-height: 1.5; margin-bottom: 0.35em; }
+.author__email {
+  margin: 0.15em 0 0;
+  font-size: 0.92em;
+  a {
+    color: $dir-accent;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(52, 95, 140, 0.28);
+    &:hover { border-bottom-color: $dir-accent; }
+  }
+}
+
+/* hide the non-functional "Follow" toggle; show links directly */
+.author__urls-wrapper button { display: none; }
+.author__urls {
+  border: 0;
+  box-shadow: none;
+  padding: 0;
+  &:before { display: none; }
+  li {
+    font-size: 0.92em;
+    padding: 0.28em 0;
+    color: $dir-muted;
+  }
+  a {
+    color: $dir-ink;
+    text-decoration: none;
+    transition: color 0.15s ease;
+    &:hover { color: $dir-accent; }
+  }
+  i, .ai { color: $dir-accent; width: 1.4em; text-align: center; }
+}
+
+/* --- Social/academic icon bubbles below the about --- */
+.author__bubbles {
+  list-style: none;
+  margin: 1.1em 0 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+
+  li { margin: 0; }
+  a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.3em;
+    height: 2.3em;
+    border-radius: 50%;
+    font-size: 1em;
+    color: $dir-accent;
+    background: rgba(52, 95, 140, 0.08);
+    border: 1px solid rgba(52, 95, 140, 0.28);
+    text-decoration: none;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+
+    &:hover {
+      background: $dir-accent;
+      border-color: $dir-accent;
+      color: #fff;
+      transform: translateY(-1px);
+    }
+    i, .ai { color: inherit; width: auto; }
+  }
+}
+
+/* --- Main column: page title + directory-style section headers --- */
+.page__title {
+  font-size: 1.9em;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  border-bottom: 0;
+  margin-bottom: 0.6em;
+}
+
+.page__content {
+  font-size: 1em;
+
+  h2 {
+    margin: 2.2em 0 0.7em;
+    padding-top: 1.4em;
+    border-top: 1px solid $dir-rule;
+    font-size: 2.05em;          // +4pt larger again
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    color: $dir-accent;         // theme blue
+    &:first-of-type { margin-top: 1.6em; }
+    .header-link, a.anchorjs-link { display: none; }
+  }
+
+  // "about" / body paragraphs match the publication text size ("CODASPY 2024")
+  p { font-size: 0.95em; line-height: 1.62; }
+
+  a:not(.btn) {
+    color: $dir-accent;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(52, 95, 140, 0.28);
+    transition: border-color 0.15s ease;
+    &:hover { border-bottom-color: $dir-accent; }
+  }
+
+  strong { color: $dir-ink; }
+}
+
+/* --- Publications: entry rows with pill links (Kaviani-style) --- */
+.page__content .pub-entry {
+  margin: 0;
+  padding: 1.15em 0;
+  border-top: 1px solid $dir-rule;
+  color: $dir-muted;
+  line-height: 1.5;
+
+  strong {
+    display: inline-block;
+    margin-bottom: 0.15em;
+    font-size: 1.03em;
+    font-weight: 700;
+    color: $dir-ink;
+  }
+}
+
+.page__content a.pub-pill {
+  display: inline-block;
+  margin: 0.7em 0.4em 0 0;
+  padding: 0.28em 0.85em;
+  font-size: 0.78em;
+  font-weight: 600;
+  line-height: 1.4;
+  color: $dir-accent;
+  background: rgba(52, 95, 140, 0.08);
+  border: 1px solid rgba(52, 95, 140, 0.32);
+  border-radius: 999px;
+  text-decoration: none;
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+
+  &:hover {
+    background: $dir-accent;
+    border-color: $dir-accent;
+    color: #fff;
+  }
+}
+
+/* --- Talks / Teaching: flush title, detail lines indented one tab --- */
+.page__content .entry-title {
+  margin: 0;                // no gap between title and its indented list
+  font-weight: 700;
+  color: $dir-ink;          // full title stays flush, even when it wraps
+}
+.page__content .entry-lines {
+  margin: 0 0 1.15em;
+  padding-left: 2em;        // every detail line (incl. wraps) indented one tab
+  color: $dir-muted;
+  line-height: 1.6;
+}
+
+/* --- Vertical navigation menu in the left sidebar --- */
+.sidebar__nav {
+  margin-top: 1.5em;
+  padding-top: 1.3em;
+  border-top: 1px solid $dir-rule;
+
+  ul { list-style: none; margin: 0; padding: 0; }
+  li { margin: 0; }
+  a {
+    display: block;
+    padding: 0.42em 0;
+    color: $dir-ink;
+    font-size: 0.98em;
+    font-weight: 500;
+    line-height: 1.3;
+    text-decoration: none;
+    border: 0;
+    transition: color 0.15s ease, padding-left 0.15s ease;
+
+    &:hover {
+      color: $dir-accent;
+      padding-left: 0.35em;
+    }
+  }
+}
+
+/* Top navigation removed — reclaim the space it used to occupy */
+#main { padding-top: 1.8em; }
+
+/* ==========================================================================
+   Dark mode (first pass — follows the OS preference)
+   ========================================================================== */
+@media (prefers-color-scheme: dark) {
+  $d-bg    : #0f1216;
+  $d-panel : #161a1f;
+  $d-ink   : #e2e6eb;
+  $d-muted : #99a2ad;
+  $d-accent: #7aa2d6;
+  $d-rule  : #242a31;
+
+  body { background: $d-bg; color: $d-ink; }
+  .masthead {
+    background: $d-bg;
+    border-bottom-color: $d-rule;
+  }
+  .greedy-nav { background: $d-bg; }
+  .greedy-nav a { color: $d-ink; }
+  .greedy-nav .visible-links a:before { background: $d-accent; }
+  .greedy-nav button { color: $d-ink; }
+
+  .author__name { color: #f2f5f8; }
+  .author__pronouns, .author__bio { color: $d-muted; }
+  .author__email a { color: $d-accent; border-bottom-color: rgba(122, 162, 214, 0.32); }
+  .sidebar { background: $d-panel; border-color: $d-rule; }
+  .sidebar__nav { border-top-color: $d-rule; }
+  .sidebar__nav a { color: $d-ink; &:hover { color: $d-accent; } }
+  .author__bubbles a {
+    color: $d-accent;
+    background: rgba(122, 162, 214, 0.12);
+    border-color: rgba(122, 162, 214, 0.32);
+    &:hover { background: $d-accent; border-color: $d-accent; color: #0f1216; }
+  }
+  .author__urls li { color: $d-muted; }
+  .author__urls a { color: $d-ink; &:hover { color: $d-accent; } }
+  .author__urls i, .author__urls .ai { color: $d-accent; }
+  .author__avatar img { box-shadow: 0 0 0 1px $d-rule, 0 14px 34px -16px #000; }
+
+  .page__title { color: #f2f5f8; }
+  .page__content { color: $d-ink; }
+  .page__content h2 { color: $d-accent; border-top-color: $d-rule; }
+  .page__content .entry-lines { color: $d-muted; }
+  .page__content .entry-title { color: #f2f5f8; }
+  .page__content strong { color: #f2f5f8; }
+  .page__content a:not(.btn) {
+    color: $d-accent;
+    border-bottom-color: rgba(122, 162, 214, 0.32);
+    &:hover { border-bottom-color: $d-accent; }
+  }
+  .page__content .pub-entry { color: $d-muted; border-top-color: $d-rule; }
+  .page__content .pub-entry strong { color: #f2f5f8; }
+  .page__content a.pub-pill {
+    color: $d-accent;
+    background: rgba(122, 162, 214, 0.12);
+    border-color: rgba(122, 162, 214, 0.34);
+    &:hover { background: $d-accent; border-color: $d-accent; color: #0f1216; }
+  }
+
+  .page__footer {
+    background: $d-bg;
+    border-top: 1px solid $d-rule;
+    color: $d-muted;
+  }
+  .page__footer a { color: $d-muted; &:hover { color: $d-accent; } }
+  .page__footer-follow .social-icons a { color: $d-muted; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}
