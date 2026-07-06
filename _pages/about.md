@@ -11,7 +11,7 @@ redirect_from:
 
 I'm a first year Computer Science Ph.D. student at Stanford University, co-advised by Professors [David Mazières](https://www.scs.stanford.edu/~dm/) and [Emma Dauterman](https://cs.stanford.edu/~edauterman/). My research interests are in applied cryptography and systems security.
 
-Previously, I completed my B.S. in Math and Computer Science (Honors), and M.S. in Computer Science at Stanford. During that time, I had the privilege of being advised by Professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazières](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/home.html).
+Previously, I completed my B.S. in Math and honors Computer Science, and M.S. in Computer Science at Stanford, where I was advised by Professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazières](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/home.html).
 
 Starting in Fall 2026, I'll be organizing [Stanford Security Lunch](https://securitylunch.stanford.edu/).
 
