@@ -18,41 +18,41 @@ Starting in Fall 2026, I'll be organizing [Stanford Security Lunch](https://secu
 ## Publications <a id="publications"></a>
 
 **The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits**
-<br>&nbsp;&nbsp;*Ihyun Nam*
-<br>&nbsp;&nbsp;**CODASPY 2024** · Porto, Portugal
-<br>&nbsp;&nbsp;[Paper](https://dl.acm.org/doi/pdf/10.1145/3626232.3653277){: .pub-pill} [Code](https://github.com/ihyunnam/Avg-Act-Swap){: .pub-pill}
+<br>&nbsp;&nbsp;&nbsp;&nbsp;*Ihyun Nam*
+<br>&nbsp;&nbsp;&nbsp;&nbsp;**CODASPY 2024** · Porto, Portugal
+<br>&nbsp;&nbsp;&nbsp;&nbsp;[Paper](https://dl.acm.org/doi/pdf/10.1145/3626232.3653277){: .pub-pill} [Code](https://github.com/ihyunnam/Avg-Act-Swap){: .pub-pill}
 {: .pub-entry}
 
 **Shuffle Squares and Reverse Shuffle Squares**
-<br>&nbsp;&nbsp;Xiaoyu He, Emily Huang, *Ihyun Nam*, Rishubh Thaper (alphabetic order)
-<br>&nbsp;&nbsp;**The European Journal of Combinatorics**, Vol. 116 (2024)
-<br>&nbsp;&nbsp;[Paper](https://www.sciencedirect.com/science/article/pii/S0195669823002019){: .pub-pill}
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Xiaoyu He, Emily Huang, *Ihyun Nam*, Rishubh Thaper (alphabetic order)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;**The European Journal of Combinatorics**, Vol. 116 (2024)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;[Paper](https://www.sciencedirect.com/science/article/pii/S0195669823002019){: .pub-pill}
 {: .pub-entry}
 
 ## Talks <a id="talks"></a>
 
 **Synchronous Key Rotations in Federated Systems**
-<br>&nbsp;&nbsp;Stanford Security Lunch - Lightning Talk (Stanford, CA): May 2026
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford Security Lunch - Lightning Talk (Stanford, CA): May 2026
 
 **Passlog: Authentication Logging with Public State**
-<br>&nbsp;&nbsp;Stanford Security Lunch (Stanford, CA): April 2026
-<br>&nbsp;&nbsp;Stanford Computer Forum (Stanford, CA): April 2026
-<br>&nbsp;&nbsp;(Upcoming) The Science of Blockchain Conference (Stanford, CA): July 2026
-<br>&nbsp;&nbsp;(Upcoming) Stanford Input-Output Research Hub Mini-Conference (Stanford, CA): July 2026
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford Security Lunch (Stanford, CA): April 2026
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford Computer Forum (Stanford, CA): April 2026
+<br>&nbsp;&nbsp;&nbsp;&nbsp;(Upcoming) The Science of Blockchain Conference (Stanford, CA): July 2026
+<br>&nbsp;&nbsp;&nbsp;&nbsp;(Upcoming) Stanford Input-Output Research Hub Mini-Conference (Stanford, CA): July 2026
 
 **The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits**
-<br>&nbsp;&nbsp;The 16th ACM Conference on Data and Application Security and Privacy (CODASPY)'24 (Porto, Portugal): June 2024
-<br>&nbsp;&nbsp;CS Honors Thesis Presentation (Stanford, CA): April 2024
-<br>&nbsp;&nbsp;Symposia for Undergraduate Research and Public Service (Stanford, CA): October 2023
+<br>&nbsp;&nbsp;&nbsp;&nbsp;The 16th ACM Conference on Data and Application Security and Privacy (CODASPY)'24 (Porto, Portugal): June 2024
+<br>&nbsp;&nbsp;&nbsp;&nbsp;CS Honors Thesis Presentation (Stanford, CA): April 2024
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Symposia for Undergraduate Research and Public Service (Stanford, CA): October 2023
 
 **Shuffle Squares and Reverse Shuffle Squares**
-<br>&nbsp;&nbsp;Symposia for Undergraduate Research and Public Service (Stanford, CA): October 2022
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Symposia for Undergraduate Research and Public Service (Stanford, CA): October 2022
 
 ## Teaching <a id="teaching"></a>
 **Stanford University (Undergraduate)**
-<br>&nbsp;&nbsp;Math 19: Calculus - Teaching Assistant (Fall 2024)
-<br>&nbsp;&nbsp;INTLPOL268: Hack Lab (Introduction to Cybersecurity) - Course Assistant (Fall 2023)
-<br>&nbsp;&nbsp;Stanford University Mathematics Camp - Teaching and Resident Assistant (Summer 2023)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Math 19: Calculus - Teaching Assistant (Fall 2024)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;INTLPOL268: Hack Lab (Introduction to Cybersecurity) - Course Assistant (Fall 2023)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford University Mathematics Camp - Teaching and Resident Assistant (Summer 2023)
 
 ## Awards &amp; Fellowships <a id="awards"></a>
 2025 · Stanford School of Engineering Fellowship (Stanford University)
