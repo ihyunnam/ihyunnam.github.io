@@ -55,7 +55,7 @@ Starting in Fall 2026, I'll be organizing [Stanford Security Lunch](https://secu
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford University Mathematics Camp - Teaching and Resident Assistant (Summer 2023)
 
 **Mentorship (Graduate)**
-I've also worked with the following amazing students.
+I've worked with the following amazing students!
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Aarzoo Aggarwal (Stanford B.S.)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Su Kara (Stanford B.S.)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Vidur Gupta (Stanford M.S.)
