@@ -48,14 +48,14 @@ Starting in Fall 2026, I'll be organizing [Stanford Security Lunch](https://secu
 **Shuffle Squares and Reverse Shuffle Squares**
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Symposia for Undergraduate Research and Public Service (Stanford, CA): October 2022
 
-## Teaching <a id="teaching"></a>
+## Teaching &amp; Mentorship <a id="teaching"></a>
 **Stanford University (Undergraduate)**
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Math 19: Calculus - Teaching Assistant (Fall 2024)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;INTLPOL268: Hack Lab (Introduction to Cybersecurity) - Course Assistant (Fall 2023)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford University Mathematics Camp - Teaching and Resident Assistant (Summer 2023)
 
 **Mentorship (Graduate)**
-I've worked with the following amazing students!
+<br> I've worked with the following amazing students!
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Aarzoo Aggarwal (Stanford B.S.)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Su Kara (Stanford B.S.)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Vidur Gupta (Stanford M.S.)
