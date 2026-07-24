@@ -54,10 +54,11 @@ Starting in Fall 2026, I'll be organizing [Stanford Security Lunch](https://secu
 <br>&nbsp;&nbsp;&nbsp;&nbsp;INTLPOL268: Hack Lab (Introduction to Cybersecurity) - Course Assistant (Fall 2023)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford University Mathematics Camp - Teaching and Resident Assistant (Summer 2023)
 
+**Mentorship (Graduate)**
 I've also worked with the following amazing students.
-<br>Aarzoo Aggarwal (Stanford B.S.)
-<br>Su Kara (Stanford B.S.)
-<br>Vidur Gupta (Stanford M.S.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Aarzoo Aggarwal (Stanford B.S.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Su Kara (Stanford B.S.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Vidur Gupta (Stanford M.S.)
 
 ## Awards &amp; Fellowships <a id="awards"></a>
 2025 · Stanford School of Engineering Fellowship (Stanford University)
