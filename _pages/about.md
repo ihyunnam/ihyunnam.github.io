@@ -37,8 +37,8 @@ Starting in Fall 2026, I'll be organizing [Stanford Security Lunch](https://secu
 **Passlog: Authentication Logging with Public State**
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford Security Lunch (Stanford, CA): April 2026
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford Computer Forum (Stanford, CA): April 2026
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford Input-Output Research Hub Mini-Conference (Stanford, CA): July 2026
 <br>&nbsp;&nbsp;&nbsp;&nbsp;(Upcoming) The Science of Blockchain Conference (Stanford, CA): July 2026
-<br>&nbsp;&nbsp;&nbsp;&nbsp;(Upcoming) Stanford Input-Output Research Hub Mini-Conference (Stanford, CA): July 2026
 
 **The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits**
 <br>&nbsp;&nbsp;&nbsp;&nbsp;CODASPY '24 (Porto, Portugal): June 2024
