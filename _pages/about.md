@@ -13,7 +13,7 @@ I'm a first year Computer Science Ph.D. student at Stanford University, co-advis
 
 Previously, I completed my B.S. in Math and honors Computer Science, and M.S. in Computer Science at Stanford, where I was advised by Professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazières](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/home.html).
 
-I organize [Stanford Security Lunch](https://securitylunch.stanford.edu/). If you'd like to give a talk there, please email me.
+I organize the [Stanford Security Lunch](https://securitylunch.stanford.edu/). Please email me to arrange talks.
 
 ## Publications <a id="publications"></a>
 
