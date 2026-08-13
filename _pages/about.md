@@ -36,11 +36,9 @@ I organize the [Stanford Security Lunch](https://securitylunch.stanford.edu/). P
 
 **Passlog: Authentication Logging with Public State**
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford Security Lunch (Stanford, CA): April 2026
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford Computer Forum Security Workshop (Stanford, CA): April 2026 [Video](https://www.youtube.com/watch?si=S_f314Y-e5YFX6zf&v=ZvMTYuzn2UE&feature=youtu.be){: .pub-pill}
-{: .pub-entry}
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford Computer Forum Security Workshop (Stanford, CA): April 2026 [Video](https://www.youtube.com/watch?si=S_f314Y-e5YFX6zf&v=ZvMTYuzn2UE&feature=youtu.be)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford Input-Output Research Hub Mini-Conference (Stanford, CA): July 2026
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Future of Digital Currency Initiative Stanford Summit (Stanford, CA): July 2026 [Video](https://drive.google.com/file/d/1VCzOS0hHoIZRcl3RLK6Q46JGO5SSYoYE/view){: .pub-pill}
-{: .pub-entry}
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Future of Digital Currency Initiative Stanford Summit (Stanford, CA): July 2026 [Video](https://drive.google.com/file/d/1VCzOS0hHoIZRcl3RLK6Q46JGO5SSYoYE/view)
 
 **The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits**
 <br>&nbsp;&nbsp;&nbsp;&nbsp;CODASPY '24 (Porto, Portugal): June 2024
