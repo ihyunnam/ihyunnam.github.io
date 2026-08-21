@@ -9,9 +9,9 @@ redirect_from:
 ---
 ## About
 
-I'm a first year Computer Science Ph.D. student at Stanford University, co-advised by Professors [David Mazières](https://www.scs.stanford.edu/~dm/) and [Emma Dauterman](https://cs.stanford.edu/~edauterman/). My research interests are in applied cryptography and systems security.
+I'm a first year Computer Science PhD student at Stanford University, co-advised by Professors [David Mazières](https://www.scs.stanford.edu/~dm/) and [Emma Dauterman](https://cs.stanford.edu/~edauterman/). My research interests are in applied cryptography and systems security.
 
-Previously, I completed my B.S. in Math and honors Computer Science, and M.S. in Computer Science at Stanford, where I was advised by Professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazières](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/home.html).
+Previously, I completed my BS in Math and honors Computer Science, and MS in Computer Science at Stanford, where I was advised by Professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazières](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/home.html).
 
 I organize the [Stanford Security Lunch](https://securitylunch.stanford.edu/). Please email me to arrange talks.
 
@@ -55,9 +55,9 @@ I organize the [Stanford Security Lunch](https://securitylunch.stanford.edu/). P
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford University Mathematics Camp - Teaching and Resident Assistant (Summer 2023)
 
 **Mentorship** — I've worked with the following amazing students!
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Aarzoo Aggarwal (Stanford B.S.)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Su Kara (Stanford B.S.)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Vidur Gupta (Stanford M.S.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Aarzoo Aggarwal (Stanford BS)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Su Kara (Stanford BS)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Vidur Gupta (Stanford MS)
 
 ## Awards &amp; Fellowships <a id="awards"></a>
 2025 · Stanford School of Engineering Fellowship (Stanford University)
