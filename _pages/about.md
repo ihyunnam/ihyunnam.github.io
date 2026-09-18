@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## About
 
-I'm a first year Computer Science Ph.D. student at Stanford University, co-advised by Professors [David Mazières](https://www.scs.stanford.edu/~dm/) and [Emma Dauterman](https://cs.stanford.edu/~edauterman/). My research interests are in systems security and cryptography.
+I'm a second year Computer Science Ph.D. student at Stanford University, co-advised by Professors [David Mazières](https://www.scs.stanford.edu/~dm/) and [Emma Dauterman](https://cs.stanford.edu/~edauterman/). My research interests are in systems security and cryptography.
 
 Previously, I completed my B.S. in Math and honors Computer Science, and M.S. in Computer Science at Stanford, where I was advised by Professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazières](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/home.html).
 
