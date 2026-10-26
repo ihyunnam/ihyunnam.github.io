@@ -1,7 +1,7 @@
 ---
 permalink: /
 seo_title: "Ihyun Nam — CS Ph.D."
-description: "I'm a first year Computer Science Ph.D. student at Stanford University, co-advised by Professors David Mazières and Emma Dauterman. My research interests are in systems security and cryptography."
+description: "I'm a second-year Computer Science Ph.D. student at Stanford University, co-advised by Professors Emma Dauterman and David Mazières. My research interests are in systems security and applied cryptography."
 author_profile: true
 redirect_from:
   - /about/
@@ -9,9 +9,9 @@ redirect_from:
 ---
 ## About
 
-I'm a second year Computer Science Ph.D. student at Stanford University, co-advised by Professors [David Mazières](https://www.scs.stanford.edu/~dm/) and [Emma Dauterman](https://cs.stanford.edu/~edauterman/). My research interests are in systems security and cryptography.
+I'm a second-year Computer Science Ph.D. student at Stanford University, co-advised by Profs. [Emma Dauterman](https://cs.stanford.edu/~edauterman/) and [David Mazières](https://www.scs.stanford.edu/~dm/). My research interests are in systems security and applied cryptography.
 
-Previously, I completed my B.S. in Math and honors Computer Science, and M.S. in Computer Science at Stanford, where I was advised by Professors [Dan Boneh](https://crypto.stanford.edu/~dabo/), [David Mazières](https://www.scs.stanford.edu/~dm/), and [John Mitchell](https://theory.stanford.edu/people/jcm/home.html).
+Previously, I completed my B.S. in Math and honors Computer Science, and M.S. in Computer Science at Stanford. I was advised by Professors [Dan Boneh](https://crypto.stanford.edu/~dabo/) and [John Mitchell](https://theory.stanford.edu/people/jcm/home.html) during that time.
 
 I organize the [Stanford Security Lunch](https://securitylunch.stanford.edu/). Please email me to arrange talks!
 
