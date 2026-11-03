@@ -60,6 +60,9 @@ I organize the [Stanford Security Lunch](https://securitylunch.stanford.edu/). P
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Su Kara (Stanford B.S.)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Vidur Gupta (Stanford M.S.)
 
+**Service**
+2026 · Student-Applicant Support Program mentor for Stanford's CS PhD program
+
 ## Awards &amp; Fellowships <a id="awards"></a>
 2025 · Stanford School of Engineering Fellowship (Stanford University)
 <br>2024 · The Hoefer Prize for Writing in the Major (Stanford University)
