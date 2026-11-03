@@ -35,10 +35,11 @@ I organize the [Stanford Security Lunch](https://securitylunch.stanford.edu/). P
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford Security Lunch - Lightning Talk (Stanford, CA): May 2026
 
 **Passlog: Authentication Logging with Public State**
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford Security Lunch (Stanford, CA): April 2026
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford Computer Forum Security Workshop (Stanford, CA): April 2026 [[Video]](https://www.youtube.com/watch?si=S_f314Y-e5YFX6zf&v=ZvMTYuzn2UE&feature=youtu.be)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford Input-Output Research Hub Mini-Conference (Stanford, CA): July 2026
+<br>&nbsp;&nbsp;&nbsp;&nbsp;SystemX 2026 Fall Conference, Poster Presentation (Stanford, CA): November 2026
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Future of Digital Currency Initiative Stanford Summit (Stanford, CA): July 2026 [[Video]](https://drive.google.com/file/d/1VCzOS0hHoIZRcl3RLK6Q46JGO5SSYoYE/view)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford Input-Output Research Hub Mini-Conference (Stanford, CA): July 2026
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford Computer Forum Security Workshop (Stanford, CA): April 2026 [[Video]](https://www.youtube.com/watch?si=S_f314Y-e5YFX6zf&v=ZvMTYuzn2UE&feature=youtu.be)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Stanford Security Lunch (Stanford, CA): April 2026
 
 **The Avg-Act Swap and Plaintext Overflow Detection in Homomorphic Operations Over Deep Circuits**
 <br>&nbsp;&nbsp;&nbsp;&nbsp;CODASPY '24 (Porto, Portugal): June 2024
