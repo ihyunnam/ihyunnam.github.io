@@ -61,7 +61,7 @@ I organize the [Stanford Security Lunch](https://securitylunch.stanford.edu/). P
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Vidur Gupta (Stanford M.S.)
 
 ## Service <a id="service"></a>
-<br> 2026 · Student-Applicant Support Program mentor for Stanford's CS PhD program
+2026 · Student-Applicant Support Program mentor for Stanford's CS PhD program
 <br> 2026-27 · Stanford Security Lunch organizer
 
 ## Awards &amp; Fellowships <a id="awards"></a>
